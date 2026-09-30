@@ -1,0 +1,5 @@
+card_uid,name,age,weight_kg,conditions,allergies,current_meds
+UID_PATIENT_A,Ramesh Kumar,68,72,atrial_fibrillation,,warfarin:5:1:Warf;atorvastatin:20:1:Storvas
+UID_PATIENT_B,Lakshmi Devi,72,58,ckd;hypertension,,lisinopril:10:1:Listril
+UID_PATIENT_C,Suresh Reddy,45,80,fever,,paracetamol:650:3:Dolo 650
+UID_PATIENT_D,Anita Sharma,30,55,,penicillin,

@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pyserial
+python-dotenv
+google-genai
+pytest
+httpx

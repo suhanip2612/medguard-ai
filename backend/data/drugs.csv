@@ -1,0 +1,22 @@
+generic_name,drug_class,brand_names,max_daily_dose_mg
+paracetamol,analgesic_antipyretic,Dolo 650;Crocin;Calpol;Metacin,4000
+ibuprofen,nsaid,Brufen;Ibugesic,2400
+aspirin,salicylate,Ecosprin;Disprin,4000
+warfarin,anticoagulant,Warf;Coumadin;Uniwarfin,
+clopidogrel,antiplatelet,Deplatt;Clopilet;Plavix,75
+omeprazole,ppi,Omez;Prilosec,80
+pantoprazole,ppi,Pan;Pantop;Pantocid,80
+metformin,biguanide,Glycomet;Glucophage;Obimet,2550
+atorvastatin,statin,Storvas;Atorva;Lipitor,80
+simvastatin,statin,Simcard;Zocor,40
+clarithromycin,macrolide,Claribid;Biaxin,1000
+lisinopril,ace_inhibitor,Listril;Lipril;Zestril,80
+enalapril,ace_inhibitor,Envas;Enapril,40
+spironolactone,potassium_sparing_diuretic,Aldactone;Spiromide,400
+amoxicillin,penicillin,Mox;Novamox;Amoxil,3000
+ampicillin,penicillin,Roscillin;Ampilin,4000
+sildenafil,pde5_inhibitor,Viagra;Manforce,100
+isosorbide mononitrate,nitrate,Monotrate;Imdur,120
+tramadol,opioid,Ultracet;Tramazac,400
+fluoxetine,ssri,Prozac;Flunil,80
+propranolol,beta_blocker,Ciplar;Inderal,320

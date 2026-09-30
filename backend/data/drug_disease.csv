@@ -1,0 +1,6 @@
+drug_or_class,condition,severity,reason,recommendation,alternative,source
+nsaid,ckd,major,NSAIDs reduce renal blood flow and can cause acute kidney injury or worsen chronic kidney disease.,Avoid in chronic kidney disease.,Paracetamol at an appropriate dose.,KDIGO / openFDA NSAID labels (VERIFY)
+metformin,ckd,moderate,Reduced kidney function raises metformin levels and the risk of lactic acidosis.,Check eGFR and adjust the dose. Stop if eGFR is below 30.,,openFDA metformin label (VERIFY)
+beta_blocker,asthma,major,Non-selective beta blockers can trigger bronchospasm in asthma.,Avoid non-selective beta blockers in asthma.,A different antihypertensive class or a cardioselective agent with caution.,openFDA propranolol label (VERIFY)
+nsaid,peptic_ulcer,major,NSAIDs damage the gastric mucosa and can cause ulcer bleeding.,Avoid in active or recent peptic ulcer disease.,Paracetamol.,openFDA NSAID labels (VERIFY)
+salicylate,peptic_ulcer,major,Aspirin damages the gastric mucosa and can cause ulcer bleeding.,Avoid in active peptic ulcer disease unless specifically indicated with gastroprotection.,Discuss with a specialist.,openFDA aspirin label (VERIFY)
