@@ -1,0 +1,91 @@
+{
+  "generic_name": "spironolactone",
+  "set_id": "0c8c973f-13a2-4883-8316-4006398e2931",
+  "id": "d37da837-e7ff-475b-b7fc-ae8d8ef5f020",
+  "openfda_brand_name": "Spironolactone and Hydrochlorothiazide",
+  "query_url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name:\"spironolactone\"&limit=10",
+  "dosage_and_administration": [
+    "DOSAGE AND ADMINISTRATION Optimal dosage should be established by individual titration of the components. Edema in adults ( congestive heart failure, hepatic cirrhosis, or nephrotic syndrome) The usual maintenance dose of spironolactone and hydrochlorothiazide tablets is 100 mg each of spironolactone and hydrochlorothiazide daily, administered in a single dose or in divided doses, but may range from 25 mg to 200 mg of each component daily depending on the response to the initial titration. In some instances it may be desirable to administer separate tablets of either spironolactone or hydrochlorothiazide in addition to spironolactone and hydrochlorothiazide tablets in order to provide optimal individual therapy. The onset of diuresis with spironolactone and hydrochlorothiazide tablets occurs promptly and, due to prolonged effect of the spironolactone component, persists for two to three days after spironolactone and hydrochlorothiazide tablets are discontinued. Essential hypertension Although the dosage will vary depending on the results of titration of the individual ingredients, many patients will be found to have an optimal response to 50 mg to 100 mg each of spironolactone and hydrochlorothiazide daily, given in a single dose or in divided doses. Concurrent potassium supplementation is not recommended when spironolactone and hydrochlorothiazide tablets are used in the long-term management of hypertension or in the treatment of most edematous conditions, since the spironolactone content of spironolactone and hydrochlorothiazide tablets is usually sufficient to minimize loss induced by the hydrochlorothiazide component."
+  ],
+  "dosage_forms_and_strengths": [],
+  "warnings": [
+    "WARNINGS Potassium supplementation, either in the form of medication or as a diet rich in potassium, should not ordinarily be given in association with spironolactone and hydrochlorothiazide therapy. Excessive potassium intake may cause hyperkalemia in patients receiving spironolactone and hydrochlorothiazide (see Precautions: General ). Concomitant administration of spironolactone and hydrochlorothiazide with the following drugs or potassium sources may lead to severe hyperkalemia: \u2022 other potassium-sparing diuretics \u2022 ACE inhibitors \u2022 angiotensin II receptor antagonists \u2022 aldosterone blockers \u2022 non-steroidal anti-inflammatory drugs (NSAIDs), e.g., indomethacin \u2022 heparin and low molecular weight heparin \u2022 other drugs or conditions known to cause hyperkalemia \u2022 potassium supplements \u2022 diet rich in potassium \u2022 salt substitutes containing potassium Spironolactone and hydrochlorothiazide should not be administered concurrently with other potassium-sparing diuretics. Spironolactone, when used with ACE inhibitors or indomethacin, even in the presence of a diuretic, has been associated with severe hyperkalemia. Extreme caution should be exercised when spironolactone and hydrochlorothiazide tablets are given concomitantly with these drugs (see Precautions: Drug interactions ). Spironolactone and hydrochlorothiazide should be used with caution in patients with impaired hepatic function because minor alterations of fluid and electrolyte balance may precipitate hepatic coma. Lithium generally should not be given with diuretics (see Precautions: Drug interactions ). Thiazides should be used with caution in severe renal disease. In patients with renal disease, thiazides may precipitate azotemia. Cumulative effects of the drug may develop in patients with impaired renal function. Thiazides may add to or potentiate the action of other antihypertensive drugs. Sensitivity reactions to thiazides may occur in patients with or without a history of allergy or bronchial asthma. Sulfonamide derivatives, including thiazides, have been reported to exacerbate or activate systemic lupus erythematosus. Acute Angle-Closure Glaucoma with or without Acute Myopia and Choroidal Effusions Hydrochlorothiazide, a sulfonamide, can cause an idiosyncratic reaction, resulting in acute angle-closure glaucoma and elevated intraocular pressure with or without a noticeable acute myopic shift and/or choroidal effusions. Symptoms may include acute onset of decreased visual acuity or ocular pain and typically occur within hours to weeks of drug initiation. Untreated, the angle-closure glaucoma may result in permanent visual field loss. The primary treatment is to discontinue hydrochlorothiazide as rapidly as possible. Prompt medical or surgical treatments may need to be considered if the intraocular pressure remains uncontrolled. Risk factors for developing acute angle-closure glaucoma may include a history of sulfonamide or penicillin allergy."
+  ],
+  "boxed_warning": [],
+  "indications_and_usage": [
+    "INDICATIONS AND USAGE Spironolactone, an ingredient of spironolactone and hydrochlorothiazide tablets, has been shown to be a tumorigen in chronic toxicity studies in rats (see Precautions section). Spironolactone and hydrochlorothiazide tablets should be used only in those conditions described below. Unnecessary use of this drug should be avoided. Spironolactone and hydrochlorothiazide tablets are indicated for: Edematous conditions for patients with: Congestive heart failure: \u2022 For the management of edema and sodium retention when the patient is only partially responsive to, or is intolerant of, other therapeutic measures; \u2022 The treatment of diuretic-induced hypokalemia in patients with congestive heart failure when other measures are considered inappropriate; \u2022 The treatment of patients with congestive heart failure taking digitalis when other therapies are considered inadequate or inappropriate. Cirrhosis of the liver accompanied by edema and/or ascites: \u2022 Aldosterone levels may be exceptionally high in this condition. Spironolactone and hydrochlorothiazide tablets are indicated for maintenance therapy together with bed rest and the restriction of fluid and sodium. The nephrotic syndrome: \u2022 For nephrotic patients when treatment of the underlying disease, restriction of fluid and sodium intake, and the use of other diuretics do not provide an adequate response. Essential hypertension: \u2022 For patients with essential hypertension in whom other measures are considered inadequate or inappropriate; \u2022 In hypertensive patients for the treatment of a diuretic-induced hypokalemia when other measures are considered inappropriate; \u2022 Spironolactone and hydrochlorothiazide tablets are indicated for the treatment of hypertension, to lower blood pressure. Lowering blood pressure reduces the risk of fatal and nonfatal cardiovascular events, primarily strokes and myocardial infarctions. These benefits have been seen in controlled trials of antihypertensive drugs from a wide variety of pharmacologic classes, including the classes to which this drug principally belongs. There are no controlled trials demonstrating risk reduction with spironolactone and hydrochlorothiazide tablets. Control of high blood pressure should be part of comprehensive cardiovascular risk management, including, as appropriate, lipid control, diabetes management, antithrombotic therapy, smoking cessation, exercise, and limited sodium intake. Many patients will require more than one drug to achieve blood pressure goals. For specific advice on goals and management, see published guidelines, such as those of the National High Blood Pressure Education Program\u2019s Joint National Committee on Prevention, Detection, Evaluation, and Treatment of High Blood Pressure (JNC). Numerous antihypertensive drugs, from a variety of pharmacologic classes and with different mechanisms of action, have been shown in randomized controlled trials to reduce cardiovascular morbidity and mortality, and it can be concluded that it is blood pressure reduction, and not some other pharmacologic property of the drugs, that is largely responsible for those benefits. The largest and most consistent cardiovascular outcome benefit has been a reduction in the risk of stroke, but reductions in myocardial infarction and cardiovascular mortality also have been seen regularly. Elevated systolic or diastolic pressure causes increased cardiovascular risk, and the absolute risk increase per mmHg is greater at higher blood pressures, so that even modest reductions of severe hypertension can provide substantial benefit. Relative risk reduction from blood pressure reduction is similar across populations with varying absolute risk, so the absolute benefit is greater in patients who are at higher risk independent of their hypertension (for example, patients with diabetes or hyperlipidemia), and such patients would be expected to benefit from more aggressive treatment to a lower blood pressure goal. Some antihypertensive drugs have smaller blood pressure effects (as monotherapy) in black patients, and many antihypertensive drugs have additional approved indications and effects (e.g., on angina, heart failure, or diabetic kidney disease). These considerations may guide selection of therapy. Usage in Pregnancy. The routine use of diuretics in an otherwise healthy woman is inappropriate and exposes mother and fetus to unnecessary hazard. Diuretics do not prevent development of toxemia of pregnancy, and there is no satisfactory evidence that they are useful in the treatment of developing toxemia. Edema during pregnancy may arise from pathologic causes or from the physiologic and mechanical consequences of pregnancy. Spironolactone and hydrochlorothiazide tablets are indicated in pregnancy when edema is due to pathologic causes just as it is in the absence of pregnancy (however, see Precautions: Pregnancy ). Dependent edema in pregnancy, resulting from restriction of venous return by the expanded uterus, is properly treated through elevation of the lower extremities and use of support hose; use of diuretics to lower intravascular volume in this case is unsupported and unnecessary. There is hypervolemia during normal pregnancy which is not harmful to either the fetus or the mother (in the absence of cardiovascular disease), but which is associated with edema, including generalized edema, in the majority of pregnant women. If this edema produces discomfort, increased recumbency will often provide relief. In rare instances, this edema may cause extreme discomfort that is not relieved by rest. In these cases, a short course of diuretics may provide relief and may be appropriate."
+  ],
+  "contraindications": [
+    "CONTRAINDICATIONS Spironolactone and hydrochlorothiazide tablets are contraindicated in patients with anuria, acute renal insufficiency, significant impairment of renal excretory function, hypercalcemia, hyperkalemia, Addison\u2019s disease, and in patients who are allergic to thiazide diuretics or to other sulfonamide-derived drugs. Spironolactone and hydrochlorothiazide may also be contraindicated in acute or severe hepatic failure."
+  ],
+  "overdosage": [
+    "OVERDOSAGE The oral LD 50 of spironolactone is greater than 1000 mg/kg in mice, rats, and rabbits. The oral LD 50 of hydrochlorothiazide is greater than 10 g/kg in both mice and rats. Acute overdosage of spironolactone may be manifested by drowsiness, mental confusion, maculopapular or erythematous rash, nausea, vomiting, dizziness, or diarrhea. Rarely, instances of hyponatremia, hyperkalemia (less commonly seen with spironolactone and hydrochlorothiazide because the hydrochlorothiazide component tends to produce hypokalemia), or hepatic coma may occur in patients with severe liver disease, but these are unlikely due to acute overdosage. However, because spironolactone and hydrochlorothiazide tablets contain both spironolactone and hydrochlorothiazide, the toxic effects may be intensified, and signs of thiazide overdosage may be present. These include electrolyte imbalance such as hypokalemia and/or hyponatremia. The potassium-sparing action of spironolactone may predominate and hyperkalemia may occur, especially in patients with impaired renal function. BUN determinations have been reported to rise transiently with hydrochlorothiazide. There may be CNS depression with lethargy or even coma. Treatment Induce vomiting or evacuate the stomach by lavage. There is no specific antidote. Treatment is supportive to maintain hydration, electrolyte balance, and vital functions. Patients who have renal impairment may develop spironolactone-induced hyperkalemia. In such cases, spironolactone and hydrochlorothiazide should be discontinued immediately. With severe hyperkalemia, the clinical situation dictates the procedures to be employed. These include the intravenous administration of calcium chloride solution, sodium bicarbonate solution, and/or the oral or parenteral administration of glucose with a rapid-acting insulin preparation. These are temporary measures to be repeated as required. Cationic exchange resins such as sodium polystyrene sulfonate may be orally or rectally administered. Persistent hyperkalemia may require dialysis."
+  ],
+  "openfda": {
+    "application_number": [
+      "ANDA086513"
+    ],
+    "brand_name": [
+      "Spironolactone and Hydrochlorothiazide"
+    ],
+    "generic_name": [
+      "SPIRONOLACTONE AND HYDROCHLOROTHIAZIDE"
+    ],
+    "manufacturer_name": [
+      "Mylan Pharmaceuticals Inc."
+    ],
+    "product_ndc": [
+      "0378-0403"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "SPIRONOLACTONE",
+      "HYDROCHLOROTHIAZIDE"
+    ],
+    "rxcui": [
+      "198224"
+    ],
+    "spl_id": [
+      "d37da837-e7ff-475b-b7fc-ae8d8ef5f020"
+    ],
+    "spl_set_id": [
+      "0c8c973f-13a2-4883-8316-4006398e2931"
+    ],
+    "package_ndc": [
+      "0378-0403-01",
+      "0378-0403-05"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000175557",
+      "N0000011310",
+      "N0000175359",
+      "N0000175419",
+      "M0471776"
+    ],
+    "pharm_class_epc": [
+      "Aldosterone Antagonist [EPC]",
+      "Thiazide Diuretic [EPC]"
+    ],
+    "pharm_class_moa": [
+      "Aldosterone Antagonists [MoA]"
+    ],
+    "pharm_class_pe": [
+      "Increased Diuresis [PE]"
+    ],
+    "pharm_class_cs": [
+      "Thiazides [CS]"
+    ],
+    "unii": [
+      "27O7W4T232",
+      "0J48LPH2TH"
+    ]
+  }
+}

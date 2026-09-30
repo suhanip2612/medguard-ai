@@ -1,0 +1,70 @@
+{
+  "generic_name": "sildenafil",
+  "set_id": "06571775-b651-4e23-a35b-88392aae7e13",
+  "id": "e785ec65-b5e8-693c-e053-2995a90aa9e7",
+  "openfda_brand_name": "Sildenafil",
+  "query_url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name:\"sildenafil\"&limit=10",
+  "dosage_and_administration": [
+    "2 DOSAGE & ADMINISTRATION Tablet: 20 mg three times a day, 4-6 hours apart ( 2.1 ) 2.1 Sildenafil Tablets The recommended dose of sildenafil tablets is 20 mg three times a day. Administer sildenafil tablets doses 4-6 hours apart. In the clinical trial no greater efficacy was achieved with the use of higher doses. Treatment with doses higher than 20 mg three times a day is not recommended."
+  ],
+  "dosage_forms_and_strengths": [
+    "3 DOSAGE FORMS & STRENGTHS Sildenafil Tablets, USP Sildenafil tablets, USP are supplied as white to white-off, film-coated, round tablets debossed with \"C 89\" on one side and plain on the other side containing sildenafil citrate equivalent to 20 mg of sildenafil. Tablets: 20 mg ( 3 )"
+  ],
+  "warnings": [],
+  "boxed_warning": [],
+  "indications_and_usage": [
+    "1 INDICATIONS & USAGE Sildenafil tablets are indicated for the treatment of pulmonary arterial hypertension (WHO Group I) in adults to improve exercise ability and delay clinical worsening. The delay in clinical worsening was demonstrated when sildenafil tablets were added to background epoprostenol therapy [ see Clinical Studies (14) ]. Studies establishing effectiveness were short-term (12 to 16 weeks), and included predominately patients with New York Heart Association (NYHA) Functional Class II-III symptoms and idiopathic etiology (71%) or associated with connective tissue disease (CTD) (25%). Limitation of Use: Adding sildenafil to bosentan therapy does not result in any beneficial effect on exercise capacity [ see Clinical Studies ( 14 ) ]. Sildenafil is a phosphodiesterase-5 (PDE-5) inhibitor indicated for the treatment of pulmonary arterial hypertension (PAH) (WHO Group I) in adults to improve exercise ability and delay clinical worsening. Studies establishing effectiveness were short-term (12 to 16 weeks), and included predominately patients with NYHA Functional Class II-III symptoms. Etiologies were idiopathic (71%) or associated with connective tissue disease (25%). ( 1 ) Limitation of Use : Adding sildenafil to bosentan therapy does not result in any beneficial effect on exercise capacity. ( 1 , 14 )"
+  ],
+  "contraindications": [
+    "4 CONTRAINDICATIONS Sildenafil tablets are contraindicated in patients with: \u2022 Concomitant use of organic nitrates in any form, either regularly or intermittently, because of the greater risk of hypotension [ see Warnings and Precautions (5.2) ]. \u2022 Concomitant use of riociguat, a guanylate cyclase stimulator. PDE-5 inhibitors, including sildenafil, may potentiate the hypotensive effects of riociguat. \u2022 Known hypersensitivity to sildenafil or any component of the tablet. Hypersensitivity, including anaphylactic reaction, anaphylactic shock and anaphylactoid reaction, has been reported in association with the use of sildenafil. \u2022 Use with organic nitrates or riociguat ( 4 ) \u2022 History of hypersensitivity reaction to sildenafil or any component of the tablet ( 4 )"
+  ],
+  "overdosage": [
+    "10 OVERDOSAGE In studies with healthy volunteers of single doses up to 800 mg, adverse events were similar to those seen at lower doses but rates and severities were increased. In cases of overdose, standard supportive measures should be adopted as required. Renal dialysis is not expected to accelerate clearance as sildenafil is highly bound to plasma proteins and it is not eliminated in the urine."
+  ],
+  "openfda": {
+    "application_number": [
+      "ANDA203814"
+    ],
+    "brand_name": [
+      "Sildenafil"
+    ],
+    "generic_name": [
+      "SILDENAFIL"
+    ],
+    "manufacturer_name": [
+      "Asclemed USA, Inc."
+    ],
+    "product_ndc": [
+      "76420-061"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "SILDENAFIL CITRATE"
+    ],
+    "rxcui": [
+      "577033"
+    ],
+    "spl_id": [
+      "e785ec65-b5e8-693c-e053-2995a90aa9e7"
+    ],
+    "spl_set_id": [
+      "06571775-b651-4e23-a35b-88392aae7e13"
+    ],
+    "package_ndc": [
+      "76420-061-30",
+      "76420-061-60",
+      "76420-061-90"
+    ],
+    "original_packager_product_ndc": [
+      "33342-121"
+    ],
+    "unii": [
+      "BW9B0ZE037"
+    ]
+  }
+}

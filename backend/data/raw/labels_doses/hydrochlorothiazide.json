@@ -1,0 +1,85 @@
+{
+  "generic_name": "hydrochlorothiazide",
+  "set_id": "02a481cb-ad80-41bb-82d3-c237b00ed8d7",
+  "id": "fd2fa3e5-d203-45e1-9354-b418f033d34e",
+  "openfda_brand_name": "Hydrochlorothiazide",
+  "query_url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name:\"hydrochlorothiazide\"&limit=10",
+  "dosage_and_administration": [
+    "DOSAGE AND ADMINISTRATION For Control of Hypertension: The adult initial dose of hydrochlorothiazide capsules, USP is one capsule given once daily whether given alone or in combination with other antihypertensives. Total daily doses greater than 50 mg are not recommended."
+  ],
+  "dosage_forms_and_strengths": [],
+  "warnings": [
+    "WARNINGS Acute Myopia and Secondary Angle-Closure Glaucoma: Hydrochlorothiazide, a sulfonamide, can cause an idiosyncratic reaction, resulting in acute transient myopia and acute angle-closure glaucoma. Symptoms include acute onset of decreased visual acuity or ocular pain and typically occur within hours to weeks of drug initiation. Untreated acute angle-closure glaucoma can lead to permanent vision loss. The primary treatment is to discontinue hydrochlorothiazide as rapidly as possible. Prompt medical or surgical treatments may need to be considered if the intraocular pressure remains uncontrolled. Risk factors for developing acute angle-closure glaucoma may include a history of sulfonamide or penicillin allergy. Diabetes and Hypoglycemia: Latent diabetes mellitus may become manifest and diabetic patients given thiazides may require adjustment of their insulin dose. Renal Disease: Cumulative effects of the thiazides may develop in patients with impaired renal function. In such patients, thiazides may precipitate azotemia."
+  ],
+  "boxed_warning": [],
+  "indications_and_usage": [
+    "INDICATIONS AND USAGE Hydrochlorothiazide capsules, USP are indicated in the management of hypertension either as the sole therapeutic agent, or in combination with other antihypertensives. Unlike potassium sparing combination diuretic products, hydrochlorothiazide capsules, USP may be used in those patients in whom the development of hyperkalemia cannot be risked, including patients taking ACE inhibitors. Usage in Pregnancy: The routine use of diuretics in an otherwise healthy woman is inappropriate and exposes mother and fetus to unnecessary hazard. Diuretics do not prevent development of toxemia of pregnancy, and there is no satisfactory evidence that they are useful in the treatment of developed toxemia. Edema during pregnancy may arise from pathological causes or from the physiologic and mechanical consequences of pregnancy. Diuretics are indicated in pregnancy when edema is due to pathologic causes, just as they are in the absence of pregnancy. Dependent edema in pregnancy resulting from restriction of venous return by the expanded uterus is properly treated through elevation of the lower extremities and use of support hose; use of diuretics to lower intravascular volume in this case is illogical and unnecessary. There is hypervolemia during normal pregnancy which is harmful to neither the fetus nor the mother (in the absence of cardiovascular disease), but which is associated with edema, including generalized edema in the majority of pregnant women. If this edema produces discomfort, increased recumbency will often provide relief. In rare instances this edema may cause extreme discomfort which is not relieved by rest. In these cases a short course of diuretics may provide relief and may be appropriate."
+  ],
+  "contraindications": [
+    "CONTRAINDICATIONS Hydrochlorothiazide is contraindicated in patients with anuria. Hypersensitivity to this product or other sulfonamide derived drugs is also contraindicated."
+  ],
+  "overdosage": [
+    "OVERDOSAGE The most common signs and symptoms observed are those caused by electrolyte depletion (hypokalemia, hypochloremia, hyponatremia) and dehydration resulting from excessive diuresis. If digitalis has also been administered, hypokalemia may accentuate cardiac arrhythmias. In the event of overdosage, symptomatic and supportive measures should be employed. Emesis should be induced or gastric lavage performed. Correct dehydration, electrolyte imbalance, hepatic coma and hypotension by established procedures. If required, give oxygen or artificial respiration for respiratory impairment. The degree to which hydrochlorothiazide is removed by hemodialysis has not been established. The oral LD 50 of hydrochlorothiazide is greater than 10 g/kg in the mouse and rat."
+  ],
+  "openfda": {
+    "application_number": [
+      "ANDA203561"
+    ],
+    "brand_name": [
+      "Hydrochlorothiazide"
+    ],
+    "generic_name": [
+      "HYDROCHLOROTHIAZIDE"
+    ],
+    "manufacturer_name": [
+      "A-S Medication Solutions"
+    ],
+    "product_ndc": [
+      "50090-6987"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "HYDROCHLOROTHIAZIDE"
+    ],
+    "rxcui": [
+      "199903"
+    ],
+    "spl_id": [
+      "fd2fa3e5-d203-45e1-9354-b418f033d34e"
+    ],
+    "spl_set_id": [
+      "02a481cb-ad80-41bb-82d3-c237b00ed8d7"
+    ],
+    "package_ndc": [
+      "50090-6987-1",
+      "50090-6987-2",
+      "50090-6987-3",
+      "50090-6987-0"
+    ],
+    "original_packager_product_ndc": [
+      "50228-146"
+    ],
+    "nui": [
+      "N0000175359",
+      "N0000175419",
+      "M0471776"
+    ],
+    "pharm_class_pe": [
+      "Increased Diuresis [PE]"
+    ],
+    "pharm_class_epc": [
+      "Thiazide Diuretic [EPC]"
+    ],
+    "pharm_class_cs": [
+      "Thiazides [CS]"
+    ],
+    "unii": [
+      "0J48LPH2TH"
+    ]
+  }
+}

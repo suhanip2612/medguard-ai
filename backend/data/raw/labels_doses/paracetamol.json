@@ -1,0 +1,64 @@
+{
+  "generic_name": "paracetamol",
+  "set_id": "0035a4fd-8dd5-4534-a1b5-f510d637f721",
+  "id": "a3731272-35ef-4fb8-aeb2-3421f68f715a",
+  "openfda_brand_name": "Acetaminophen",
+  "query_url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name:\"acetaminophen\"&limit=10",
+  "dosage_and_administration": [
+    "Directions do not take more than directed (see overdose warning). Adults: take 2 tablets every 8 hours with water swallow whole; do not crush, chew, split or dissolve do not take more than 6 tablets in 24 hours do not use for more than 10 days unless directed by a doctor. Under 18 years of age: ask a doctor"
+  ],
+  "dosage_forms_and_strengths": [],
+  "warnings": [
+    "Warnings Liver warning: This product contains acetaminophen. Severe liver damage may occur if you take more than 6 tablets in 24 hours, which is the maximum daily amount with other drugs containing acetaminophen 3 or more alcoholic drinks every day while using this product Allergy alert: acetaminophen may cause severe skin reactions. Symptoms may include: skin reddening blisters rash If a skin reaction occurs, stop use and seek medical help right away."
+  ],
+  "boxed_warning": [],
+  "indications_and_usage": [
+    "Uses temporarily relieves minor aches and pains due to: minor pain of arthritis muscular aches backache premenstrual and menstrual cramp toothache the common cold headache toothache temporarily reduces fever"
+  ],
+  "contraindications": [],
+  "overdosage": [],
+  "openfda": {
+    "application_number": [
+      "ANDA207229"
+    ],
+    "brand_name": [
+      "Acetaminophen"
+    ],
+    "generic_name": [
+      "ACETAMINOPHEN"
+    ],
+    "manufacturer_name": [
+      "WALMART INC."
+    ],
+    "product_ndc": [
+      "79903-132"
+    ],
+    "product_type": [
+      "HUMAN OTC DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "ACETAMINOPHEN"
+    ],
+    "rxcui": [
+      "1148399"
+    ],
+    "spl_id": [
+      "a3731272-35ef-4fb8-aeb2-3421f68f715a"
+    ],
+    "spl_set_id": [
+      "0035a4fd-8dd5-4534-a1b5-f510d637f721"
+    ],
+    "package_ndc": [
+      "79903-132-25"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "362O9ITL9D"
+    ]
+  }
+}

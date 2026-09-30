@@ -1,0 +1,89 @@
+{
+  "generic_name": "isosorbide_mononitrate",
+  "set_id": "06839534-85b8-42aa-b0e3-079ed236be44",
+  "id": "616fb1d3-ab4c-40a1-b11a-7a913f0b617c",
+  "openfda_brand_name": "Isosorbide Mononitrate",
+  "query_url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name:\"isosorbide%20mononitrate\"&limit=10",
+  "dosage_and_administration": [
+    "DOSAGE AND ADMINISTRATION The recommended regimen of isosorbide mononitrate tablets is 20 mg twice daily, with the doses seven hours apart. A starting dose of 5 mg (\u00bd tablet of the 10 mg dosing strength) might be appropriate for persons of particularly small stature but should be increased to at least 10 mg by the second or third day of therapy. Dosage adjustments are not necessary for elderly patients or patients with altered hepatic or renal function. As noted above ( CLINICAL PHARMACOLOGY ), multiple studies of organic nitrates have shown that maintenance of continuous 24-hour plasma levels results in refractory tolerance. The asymmetric (2 doses, 7 hours apart) dosing regimen for isosorbide mononitrate tablets provides a daily nitrate-free interval to minimize the development of tolerance. As also noted under CLINICAL PHARMACOLOGY , well-controlled studies have shown that tolerance to isosorbide mononitrate tablets occurs to some extent when using the twice-daily regimen in which the two doses are given seven hours apart. This regimen has been shown to have antianginal efficacy beginning one hour after the first dose and lasting at least seven hours after the second dose. The duration (if any) of antianginal activity beyond fourteen hours has not been studied. In clinical trials, isosorbide mononitrate has been administered in a variety of regimens and doses. Doses above 20 mg twice a day (with the doses seven hours apart) have not been adequately studied. Doses of 5 mg twice a day are clearly effective (effectiveness based on exercise tolerance) for only the first day of a twice-a-day (with doses 7 hours apart) regimen."
+  ],
+  "dosage_forms_and_strengths": [],
+  "warnings": [
+    "WARNINGS Amplification of the vasodilatory effects of isosorbide mononitrate by sildenafil can result in severe hypotension. The time course and dose dependence of this interaction have not been studied. Appropriate supportive care has not been studied, but it seems reasonable to treat this as a nitrate overdose, with elevation of the extremities and with central volume expansion. The benefits of isosorbide mononitrate in patients with acute myocardial infarction or congestive heart failure have not been established. Because the effects of isosorbide mononitrate are difficult to terminate rapidly, this drug is not recommended in these settings. If isosorbide mononitrate is used in these conditions, careful clinical or hemodynamic monitoring must be used to avoid the hazards of hypotension and tachycardia."
+  ],
+  "boxed_warning": [],
+  "indications_and_usage": [
+    "INDICATIONS AND USAGE Isosorbide Mononitrate Tablets USP are indicated for the prevention and treatment of angina pectoris due to coronary artery disease. The onset of action of oral isosorbide mononitrate is not sufficiently rapid for this product to be useful in aborting an acute anginal episode."
+  ],
+  "contraindications": [
+    "CONTRAINDICATIONS Isosorbide mononitrate is contraindicated in patients who are allergic to it. Do not use isosorbide mononitrate in patients who are taking certain drugs for erectile dysfunction (phosphodiesterase inhibitors), such as sildenafil, tadalafil, or vardenafil. Concomitant use can cause severe hypotension, syncope, or myocardial ischemia. Do not use isosorbide mononitrate in patients who are taking the soluble guanylate cyclase stimulator riociguat. Concomitant use can cause hypotension."
+  ],
+  "overdosage": [
+    "OVERDOSAGE Hemodynamic Effects The ill effects of isosorbide mononitrate overdose are generally the results of isosorbide mononitrate\u2019s capacity to induce vasodilatation, venous pooling, reduced cardiac output, and hypotension. These hemodynamic changes may have protean manifestations, including increased intracranial pressure, with any or all of persistent throbbing headache, confusion, and moderate fever; vertigo; palpitations; visual disturbances; nausea and vomiting (possibly with colic and even bloody diarrhea); syncope (especially in the upright posture); air hunger and dyspnea, later followed by reduced ventilatory effort; diaphoresis, with the skin either flushed or cold and clammy; heart block and bradycardia; paralysis; coma; seizures and death. Laboratory determinations of serum levels of isosorbide mononitrate and its metabolites are not widely available, and such determinations have, in any event, no established role in the management of isosorbide mononitrate overdose. There are no data suggesting what dose of isosorbide mononitrate is likely to be life-threatening in humans. In rats and mice, there is significant lethality at oral doses of 1965 mg/kg and 2581 mg/kg, respectively. No data are available to suggest physiological maneuvers (e.g., maneuvers to change the pH of the urine) that might accelerate elimination of isosorbide mononitrate. Isosorbide mononitrate is significantly removed from the blood during hemodialysis. No specific antagonist to the vasodilator effects of isosorbide mononitrate is known, and no intervention has been subject to controlled study as a therapy of isosorbide mononitrate overdose. Because the hypotension associated with isosorbide mononitrate overdose is the result of venodilatation and arterial hypovolemia, prudent therapy in this situation should be directed toward an increase in central fluid volume. Passive elevation of the patient\u2019s legs may be sufficient, but intravenous infusion of normal saline or similar fluid may also be necessary. The use of epinephrine or other arterial vasoconstrictors in this setting is likely to do more harm than good. In patients with renal disease or congestive heart failure, therapy resulting in central volume expansion is not without hazard. Treatment of isosorbide mononitrate overdose in these patients may be subtle and difficult, and invasive monitoring may be required. Methemoglobinemia Methemoglobinemia has been reported in patients receiving other organic nitrates, and it probably could also occur as a side effect of isosorbide mononitrate. Certainly nitrate ions liberated during metabolism of isosorbide mononitrate can oxidize hemoglobin into methemoglobin. Even in patients totally without cytochrome b5 reductase activity, however, and even assuming that the nitrate moiety of isosorbide mononitrate is quantitatively applied to oxidation of hemoglobin, about 2 mg/kg of isosorbide mononitrate should be required before any of these patients manifests clinically significant (\u226510%) methemoglobinemia. In patients with normal reductase function, significant production of methemoglobin should require even larger doses of isosorbide mononitrate. In one study in which 36 patients received 2-4 weeks of continuous nitroglycerin therapy at 3.1 to 4.4 mg/hr (equivalent, in total administered dose of nitrate ions, to 7.8-11.1 mg of isosorbide mononitrate per hour), the average methemoglobin level measured was 0.2%; this was comparable to that observed in parallel patients who received placebo. Notwithstanding these observations, there are case reports of significant methemoglobinemia in association with moderate overdoses of organic nitrates. None of the affected patients had been thought to be unusually susceptible. Methemoglobin levels are available from most clinical laboratories. The diagnosis should be suspected in patients who exhibit signs of impaired oxygen delivery despite adequate cardiac output and adequate arterial p0 2 . Classically, methemoglobinemic blood is described as chocolate brown, without color change on exposure to air. When methemoglobinemia is diagnosed, the treatment of choice is methylene blue, 1-2 mg/kg intravenously."
+  ],
+  "openfda": {
+    "application_number": [
+      "ANDA075147"
+    ],
+    "brand_name": [
+      "Isosorbide Mononitrate"
+    ],
+    "generic_name": [
+      "ISOSORBIDE MONONITRATE"
+    ],
+    "manufacturer_name": [
+      "ANI Pharmaceuticals, Inc."
+    ],
+    "product_ndc": [
+      "62559-252",
+      "62559-253"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "ISOSORBIDE MONONITRATE"
+    ],
+    "rxcui": [
+      "311192",
+      "311197"
+    ],
+    "spl_id": [
+      "616fb1d3-ab4c-40a1-b11a-7a913f0b617c"
+    ],
+    "spl_set_id": [
+      "06839534-85b8-42aa-b0e3-079ed236be44"
+    ],
+    "package_ndc": [
+      "62559-252-01",
+      "62559-253-01"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0362559252010",
+      "0362559253017"
+    ],
+    "nui": [
+      "N0000175415",
+      "M0014874",
+      "N0000009909"
+    ],
+    "pharm_class_epc": [
+      "Nitrate Vasodilator [EPC]"
+    ],
+    "pharm_class_cs": [
+      "Nitrates [CS]"
+    ],
+    "pharm_class_pe": [
+      "Vasodilation [PE]"
+    ],
+    "unii": [
+      "LX1OH63030"
+    ]
+  }
+}

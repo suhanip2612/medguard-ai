@@ -1,0 +1,76 @@
+{
+  "generic_name": "ampicillin",
+  "set_id": "006f9a3f-b4e3-4aa5-ac65-6cc3d3e2582d",
+  "id": "13827c0d-189b-468c-be84-a183793dd8a3",
+  "openfda_brand_name": "Ampicillin and Sulbactam",
+  "query_url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name:\"ampicillin\"&limit=10",
+  "dosage_and_administration": [
+    "DOSAGE AND ADMINISTRATION Ampicillin and Sulbactam for Injection may be administered by either the IV or the IM routes. For IV administration, the dose can be given by slow intravenous injection over at least 10 to 15 minutes or can also be delivered in greater dilutions with 50 mL to 100 mL of a compatible diluent as an intravenous infusion over 15 to 30 minutes (see DIRECTION FOR USE-Preparation for Intravenous Use section). Ampicillin and Sulbactam for Injection may be administered by deep intramuscular injection (see DIRECTIONS FOR USE-Preparation for Intramuscular Injection section). The recommended adult dosage of Ampicillin and Sulbactam for Injection is 1.5 g (ampicillin 1 g and sulbactam 0.5 g) to 3 g (ampicillin 2 g and sulbactam 1 g) every six hours. This 1.5 g to 3 g range represents the total of ampicillin content plus the sulbactam content of Ampicillin and Sulbactam for Injection, and corresponds to a range of 1 g ampicillin and 0.5 g sulbactam to 2 g ampicillin and 1 g sulbactam. The total dose of sulbactam should not exceed 4 g per day. Pediatric Patients 1 Year of Age or Older: The recommended daily dose of Ampicillin and Sulbactam for Injection in pediatric patients is 300 mg per kg of body weight administered via intravenous infusion in equally divided doses every 6 hours. This 300 mg/kg/day dosage represents the total ampicillin content plus the sulbactam content of Ampicillin and Sulbactam for Injection, and corresponds to 200 mg ampicillin and 100 mg sulbactam per kg per day. The safety and efficacy of Ampicillin and Sulbactam for Injection administered via intramuscular injection in pediatric patients have not been established. Pediatric patients weighing 40 kg or more should be dosed according to adult recommendations, and the total dose of sulbactam should not exceed 4 g per day. The course of intravenous therapy should not routinely exceed 14 days. In clinical trials, most pediatric patients received a course of oral antimicrobials following initial treatment with intravenous Ampicillin and Sulbactam for Injection (see CLINICAL STUDIES section.) Impaired Renal Function In patients with impairment of renal function the elimination kinetics of ampicillin and sulbactam are similarly affected, hence the ratio of one to the other will remain constant whatever the renal function. The dose of Ampicillin and Sulbactam for Injection in such patients should be administered less frequently in accordance with the usual practice for ampicillin and according to the following recommendations: TABLE 3: Ampicillin And Sulbactam For Injection Dosage Guide for Patients with Renal Impairment Creatinine Clearance (mL/min/1.73m 2 ) Ampicillin and Sulbactam Half-Life (Hours) Recommended Ampicillin And Sulbactam For Injection Dosage \u2265 30 1 1.5 g to 3 g every 6 to 8 hours 15 to 29 5 1.5 g to 3 g every 12 hours 5 to 14 9 1.5 g to 3 g every 24 hours When only serum creatinine is available, the following formula (based on sex, weight, and age of the patient) may be used to convert this value into creatinine clearance. The serum creatinine should represent a steady state of renal function. Males Weight (kg) x (140 - age) 72 x serum creatinine Females 0.85 x above value"
+  ],
+  "dosage_forms_and_strengths": [],
+  "warnings": [
+    "WARNINGS Hypersensitivity Serious and occasionally fatal hypersensitivity (anaphylactic) reactions have been reported in patients on penicillin therapy. These reactions are more apt to occur in individuals with a history of penicillin hypersensitivity and/or hypersensitivity reactions to multiple allergens. There have been reports of individuals with a history of penicillin hypersensitivity who have experienced severe reactions when treated with cephalosporins. Before therapy with a penicillin, careful inquiry should be made concerning previous hypersensitivity reactions to penicillins, cephalosporins, and other allergens. If an allergic reaction occurs, ampicillin and sulbactam for injection should be discontinued and the appropriate therapy instituted. Hepatotoxicity Hepatic dysfunction, including hepatitis and cholestatic jaundice has been associated with the use of ampicillin and sulbactam for injection. Hepatic toxicity is usually reversible; however, deaths have been reported. Hepatic function should be monitored at regular intervals in patients with hepatic impairment. Severe Cutaneous Adverse Reactions Ampicillin and sulbactam for injection may cause severe skin reactions, such as toxic epidermal necrolysis (TEN), Stevens-Johnson syndrome (SJS), drug reaction with eosinophilia and systemic symptoms (DRESS), dermatitis exfoliative, erythema multiforme, and acute generalized exanthematous pustulosis (AGEP). If patients develop a skin rash they should be monitored closely and ampicillin and sulbactam for injection discontinued if lesions progress (see CONTRAINDICATIONS and ADVERSE REACTIONS sections). Clostridioides difficile -Associated Diarrhea Clostridioides difficile -associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including ampicillin and sulbactam for injection, and may range in severity from mild diarrhea to fatal colitis. Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile . C. difficile produces toxins A and B which contribute to the development of CDAD. Hypertoxin producing strains of C. difficile cause increased morbidity and mortality, as these infections can be refractory to antimicrobial therapy and may require colectomy. CDAD must be considered in all patients who present with diarrhea following antibacterial drug use. Careful medical history is necessary since CDAD has been reported to occur over two months after the administration of antibacterial agents. If CDAD is suspected or confirmed, ongoing antibacterial drug use not directed against C. difficile may need to be discontinued. Appropriate fluid and electrolyte management, protein supplementation, antibacterial treatment of C. difficile , and surgical evaluation should be instituted as clinically indicated."
+  ],
+  "boxed_warning": [],
+  "indications_and_usage": [
+    "INDICATIONS AND USAGE Ampicillin and Sulbactam for Injection is indicated for the treatment of infections due to susceptible strains of the designated microorganisms in the conditions listed below. Skin and Skin Structure Infections caused by beta-lactamase producing strains of Staphylococcus aureus , Escherichia coli *, Klebsiella spp.* (including K. pneumoniae *), Proteus mirabilis *, Bacteroides fragilis *, Enterobacter spp.*, and Acinetobacter calcoaceticus * . NOTE: For information on use in pediatric patients see PRECAUTIONS-Pediatric Use and CLINICAL STUDIES sections. Intra-Abdominal Infections caused by beta-lactamase producing strains of Escherichia coli , Klebsiella spp. (including K. pneumoniae * ) , Bacteroides spp. (including B. fragilis ), and Enterobacter spp.* Gynecological Infections caused by beta-lactamase producing strains of Escherichia coli*, and Bacteroides spp.* (including B. fragilis * ) . *Efficacy for this organism in this organ system was studied in fewer than 10 infections. While ampicillin and sulbactam for injection is indicated only for the conditions listed above, infections caused by ampicillin-susceptible organisms are also amenable to treatment with ampicillin and sulbactam for injection due to its ampicillin content. Therefore, mixed infections caused by ampicillin-susceptible organisms and beta-lactamase producing organisms susceptible to ampicillin and sulbactam for injection should not require the addition of another antibacterial. Appropriate culture and susceptibility tests should be performed before treatment in order to isolate and identify the organisms causing infection and to determine their susceptibility to ampicillin and sulbactam for injection. Therapy may be instituted prior to obtaining the results from bacteriological and susceptibility studies when there is reason to believe the infection may involve any of the beta-lactamase producing organisms listed above in the indicated organ systems. Once the results are known, therapy should be adjusted if appropriate. To reduce the development of drug-resistant bacteria and maintain effectiveness of ampicillin and sulbactam for injection and other antibacterial drugs, ampicillin and sulbactam for injection should be used only to treat infections that are proven or strongly suspected to be caused by susceptible bacteria. When culture and susceptibility information are available, they should be considered in selecting or modifying antibacterial therapy. In the absence of such data, local epidemiology and susceptibility patterns may contribute to the empiric selection of therapy."
+  ],
+  "contraindications": [
+    "CONTRAINDICATIONS The use of ampicillin and sulbactam for injection is contraindicated in individuals with a history of serious hypersensitivity reactions (e.g., anaphylaxis or Stevens-Johnson syndrome) to ampicillin, sulbactam or to other beta-lactam antibacterial drugs (e.g., penicillins and cephalosporins). Ampicillin and sulbactam for injection is contraindicated in patients with a previous history of cholestatic jaundice/hepatic dysfunction associated with ampicillin and sulbactam for injection."
+  ],
+  "overdosage": [
+    "OVERDOSAGE Neurological adverse reactions, including convulsions, may occur with the attainment of high CSF levels of beta-lactams. Ampicillin may be removed from circulation by hemodialysis. The molecular weight, degree of protein binding and pharmacokinetics profile of sulbactam suggest that this compound may also be removed by hemodialysis."
+  ],
+  "openfda": {
+    "application_number": [
+      "ANDA065406"
+    ],
+    "brand_name": [
+      "Ampicillin and Sulbactam"
+    ],
+    "generic_name": [
+      "AMPICILLIN SODIUM AND SULBACTAM SODIUM"
+    ],
+    "manufacturer_name": [
+      "Meitheal Pharmaceuticals Inc."
+    ],
+    "product_ndc": [
+      "71288-031",
+      "71288-032"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "INTRAMUSCULAR",
+      "INTRAVENOUS"
+    ],
+    "substance_name": [
+      "AMPICILLIN SODIUM",
+      "SULBACTAM SODIUM"
+    ],
+    "rxcui": [
+      "1659592",
+      "1659598"
+    ],
+    "spl_id": [
+      "13827c0d-189b-468c-be84-a183793dd8a3"
+    ],
+    "spl_set_id": [
+      "006f9a3f-b4e3-4aa5-ac65-6cc3d3e2582d"
+    ],
+    "package_ndc": [
+      "71288-031-91",
+      "71288-031-92",
+      "71288-032-91",
+      "71288-032-92"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "unii": [
+      "DKQ4T82YE6",
+      "JFN36L5S8K"
+    ]
+  }
+}

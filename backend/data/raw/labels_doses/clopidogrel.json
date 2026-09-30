@@ -1,0 +1,78 @@
+{
+  "generic_name": "clopidogrel",
+  "set_id": "0078fb3d-3595-4ae1-a059-1d5e81c879cf",
+  "id": "ff58c1f3-4875-4d10-aca7-c622af163cef",
+  "openfda_brand_name": "Clopidogrel",
+  "query_url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name:\"clopidogrel\"&limit=10",
+  "dosage_and_administration": [
+    "2 DOSAGE AND ADMINISTRATION Acute coronary syndrome ( 2.1 ) \u2013 Initiate clopidogrel tablets with a single 300 mg oral loading dose and then continue at 75 mg once daily. \u2013 Initiating clopidogrel tablets without a loading dose will delay establishment of an antiplatelet effect by several days. Recent MI, recent stroke, or established peripheral arterial disease: 75 mg once daily orally without a loading dose. ( 2.2 ) 2.1 Acute Coronary Syndrome In patients who need an antiplatelet effect within hours, initiate clopidogrel tablets with a single 300 mg oral loading dose and then continue at 75 mg once daily. Initiating clopidogrel tablets without a loading dose will delay establishment of an antiplatelet effect by several days [see Clinical Pharmacology (12.3) and Clinical Studies (14.1) ] . 2.2 Recent MI, Recent Stroke, or Established Peripheral Arterial Disease 75 mg once daily orally without a loading dose [see Clinical Pharmacology (12.3) and Clinical Studies (14.2) ] ."
+  ],
+  "dosage_forms_and_strengths": [
+    "3 DOSAGE FORMS AND STRENGTHS 75 mg tablets: Pink colored, round, biconvex, beveled edge, film-coated tablets debossed with \u2018E\u2019 on one side and \u201834\u2019 on the other side. Film-coated tablets: 75 mg (3)"
+  ],
+  "warnings": [],
+  "boxed_warning": [
+    "WARNING: DIMINISHED ANTIPLATELET EFFECT IN PATIENTS WITH TWO LOSS-OF-FUNCTION ALLELES OF THE CYP2C19 GENE The effectiveness of clopidogrel results from its antiplatelet activity, which is dependent on its conversion to an active metabolite by the cytochrome P450 (CYP) system, principally CYP2C19 [see Warnings and Precautions (5.1) , Clinical Pharmacology (12.3) ] . Clopidogrel at recommended doses forms less of the active metabolite and so has a reduced effect on platelet activity in patients who are homozygous for nonfunctional alleles of the CYP2C19 gene, (termed \u201cCYP2C19 poor metabolizers\u201d). Tests are available to identify patients who are CYP2C19 poor metabolizers [see Clinical Pharmacology (12.5) ] . Consider use of another platelet P2Y 12 inhibitor in patients identified as CYP2C19 poor metabolizers. WARNING: DIMINISHED ANTIPLATELET EFFECT IN PATIENTS WITH TWO LOSS-OF-FUNCTION ALLELES OF THE CYP2C19 GENE See full prescribing information for complete boxed warning. Effectiveness of clopidogrel depends on conversion to an active metabolite by the cytochrome P450 (CYP) system, principally CYP2C19. ( 5.1 , 12.3 ) Tests are available to identify patients who are CYP2C19 poor metabolizers. (12.5) Consider use of another platelet P2Y 12 inhibitor in patients identified as CYP2C19 poor metabolizers. ( 5.1)"
+  ],
+  "indications_and_usage": [
+    "1 INDICATIONS AND USAGE Clopidogrel tablets are a P2Y 12 platelet inhibitor indicated for: Acute coronary syndrome \u2013 For patients with non\u2013ST-segment elevation ACS (unstable angina [UA]/non\u2013ST-elevation myocardial infarction [NSTEMI]), clopidogrel tablets have been shown to reduce the rate of myocardial infarction (MI) and stroke. (1.1) \u2013 For patients with ST-elevation myocardial infarction (STEMI), clopidogrel tablets have been shown to reduce the rate of MI and stroke. (1.1) Recent MI, recent stroke, or established peripheral arterial disease. Clopidogrel tablets have been shown to reduce the rate of MI and stroke. (1.2) 1.1 Acute Coronary Syndrome (ACS) Clopidogrel tablets are indicated to reduce the rate of myocardial infarction (MI) and stroke in patients with non\u2013ST-segment elevation ACS (unstable angina [UA]/non\u2013ST-elevation myocardial infarction [NSTEMI]), including patients who are to be managed medically and those who are to be managed with coronary revascularization. Clopidogrel tablets should be administered in conjunction with aspirin. Clopidogrel tablets are indicated to reduce the rate of myocardial infarction and stroke in patients with acute ST-elevation myocardial infarction (STEMI) who are to be managed medically. Clopidogrel tablets should be administered in conjunction with aspirin. 1.2 Recent MI, Recent Stroke, or Established Peripheral Arterial Disease In patients with established peripheral arterial disease or with a history of recent myocardial infarction (MI) or recent stroke clopidogrel tablets are indicated to reduce the rate of MI and stroke."
+  ],
+  "contraindications": [
+    "4 CONTRAINDICATIONS Active pathological bleeding, such as peptic ulcer or intracranial hemorrhage (4.1) Hypersensitivity to clopidogrel or any component of the product (4.2) 4.1 Active Bleeding Clopidogrel tablets are contraindicated in patients with active pathological bleeding such as peptic ulcer or intracranial hemorrhage. 4.2 Hypersensitivity Clopidogrel tablets are contraindicated in patients with hypersensitivity (e.g., anaphylaxis) to clopidogrel or any component of the product [see Adverse Reactions (6.2) ] ."
+  ],
+  "overdosage": [
+    "10 OVERDOSAGE Platelet inhibition by clopidogrel is irreversible and will last for the life of the platelet. Overdose following clopidogrel administration may result in bleeding complications. A single oral dose of clopidogrel at 1500 or 2000 mg/kg was lethal to mice and to rats and at 3000 mg/kg to baboons. Symptoms of acute toxicity were vomiting, prostration, difficult breathing, and gastrointestinal hemorrhage in animals. Based on biological plausibility, platelet transfusion may restore clotting ability."
+  ],
+  "openfda": {
+    "application_number": [
+      "ANDA090540"
+    ],
+    "brand_name": [
+      "Clopidogrel"
+    ],
+    "generic_name": [
+      "CLOPIDOGREL BISULFATE"
+    ],
+    "manufacturer_name": [
+      "Aurobindo Pharma Limited"
+    ],
+    "product_ndc": [
+      "65862-357"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "CLOPIDOGREL BISULFATE"
+    ],
+    "rxcui": [
+      "309362"
+    ],
+    "spl_id": [
+      "ff58c1f3-4875-4d10-aca7-c622af163cef"
+    ],
+    "spl_set_id": [
+      "0078fb3d-3595-4ae1-a059-1d5e81c879cf"
+    ],
+    "package_ndc": [
+      "65862-357-30",
+      "65862-357-90",
+      "65862-357-01",
+      "65862-357-05",
+      "65862-357-99",
+      "65862-357-10"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "upc": [
+      "0365862357304"
+    ],
+    "unii": [
+      "08I79HTP27"
+    ]
+  }
+}

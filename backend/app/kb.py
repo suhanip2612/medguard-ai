@@ -29,14 +29,15 @@ class KnowledgeBase:
         for r in _read("drugs.csv"):
             g = norm(r["generic_name"])
             mx = r["max_daily_dose_mg"].strip()
+            brands_col = r.get("brands") if "brands" in r else r.get("brand_names", "")
             self.drugs[g] = {
                 "generic": g,
                 "class": norm(r["drug_class"]),
-                "brands": _split(r["brand_names"]),
+                "brands": _split(brands_col),
                 "max_daily_dose_mg": float(mx) if mx else None,
             }
             self.name_to_generic[g] = g
-            for b in _split(r["brand_names"]):
+            for b in _split(brands_col):
                 self.name_to_generic[norm(b)] = g
 
         self.interactions = [{k: norm(v) if k in ("drug_a", "drug_b", "severity") else v

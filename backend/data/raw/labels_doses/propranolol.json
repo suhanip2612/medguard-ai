@@ -1,0 +1,76 @@
+{
+  "generic_name": "propranolol",
+  "set_id": "015b5e4f-3228-4259-b419-e0e49694a058",
+  "id": "3f2c1ac2-1bb2-3613-e063-6394a90a211f",
+  "openfda_brand_name": "Propranolol Hydrochloride",
+  "query_url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name:\"propranolol\"&limit=10",
+  "dosage_and_administration": [
+    "DOSAGE AND ADMINISTRATION General Propranolol Hydrochloride Extended-Release Capsules, USP, provide propranolol hydrochloride in a sustained-release capsule for administration once daily. If patients are switched from propranolol hydrochloride tablets to Propranolol Hydrochloride Extended-Release Capsules, USP, care should be taken to assure that the desired therapeutic effect is maintained. Propranolol Hydrochloride Extended-Release Capsules, USP, should not be considered a simple mg-for-mg substitute for propranolol hydrochloride tablets. Propranolol Hydrochloride Extended-Release Capsules, USP, have different kinetics and produces lower blood levels. Retitration may be necessary, especially to maintain effectiveness at the end of the 24-hour dosing interval. Hypertension The usual initial dosage is 80 mg Propranolol Hydrochloride Extended-Release Capsules, USP, once daily, whether used alone or added to a diuretic. The dosage may be increased to 120 mg once daily or higher until adequate blood pressure control is achieved. The usual maintenance dosage is 120 to 160 mg once daily. In some instances a dosage of 640 mg may be required. The time needed for full hypertensive response to a given dosage is variable and may range from a few days to several weeks. Angina Pectoris Starting with 80 mg Propranolol Hydrochloride Extended-Release Capsules, USP, once daily, dosage should be gradually increased at three- to seven-day intervals until optimal response is obtained. Although individual patients may respond at any dosage level, the average optimal dosage appears to be 160 mg once daily. In angina pectoris, the value and safety of dosage exceeding 320 mg per day have not been established. If treatment is to be discontinued, reduce dosage gradually over a period of a few weeks (see WARNINGS ). Migraine The initial oral dose is 80 mg Propranolol Hydrochloride Extended-Release Capsules, USP, once daily. The usual effective dose range is 160 to 240 mg once daily. The dosage may be increased gradually to achieve optimal migraine prophylaxis. If a satisfactory response is not obtained within four to six weeks after reaching the maximal dose, Propranolol Hydrochloride Extended-Release Capsules, USP, therapy should be discontinued. It may be advisable to withdraw the drug gradually over a period of several weeks depending on the patient's age, comorbidity, and dose of Propranolol Hydrochloride Extended-Release Capsules, USP. Hypertrophic Subaortic Stenosis The usual dosage is 80 to 160 mg Propranolol Hydrochloride Extended-Release Capsules, USP, once daily."
+  ],
+  "dosage_forms_and_strengths": [],
+  "warnings": [
+    "WARNINGS Angina Pectoris There have been reports of exacerbation of angina and, in some cases, myocardial infarction, following abrupt discontinuance of propranolol therapy. Therefore, when discontinuance of propranolol is planned, the dosage should be gradually reduced over at least a few weeks, and the patient should be cautioned against interruption or cessation of therapy without the physician's advice. If propranolol therapy is interrupted and exacerbation of angina occurs, it usually is advisable to reinstitute propranolol therapy and take other measures appropriate for the management of unstable angina pectoris. Since coronary artery disease may be unrecognized, it may be prudent to follow the above advice in patients considered at risk of having occult atherosclerotic heart disease who are given propranolol for other indications. Hypersensitivity and Skin Reactions Hypersensitivity reactions, including anaphylactic/anaphylactoid reactions, have been associated with the administration of propranolol (see ADVERSE REACTIONS ). Cutaneous reactions, including Stevens-Johnson Syndrome, toxic epidermal necrolysis, exfoliative dermatitis, erythema multiforme, and urticaria, have been reported with use of propranolol (see ADVERSE REACTIONS ). Cardiac Failure Sympathetic stimulation may be a vital component supporting circulatory function in patients with congestive heart failure, and its inhibition by beta blockade may precipitate more severe failure. Although beta-blockers should be avoided in overt congestive heart failure, some have been shown to be highly beneficial when used with close follow-up in patients with a history of failure who are well compensated and are receiving diuretics as needed. Beta-adrenergic blocking agents do not abolish the inotropic action of digitalis on heart muscle. In Patients without a History of Heart Failure , continued use of beta-blockers can, in some cases, lead to cardiac failure. Nonallergic Bronchospasm (e.g., Chronic Bronchitis, Emphysema) In general, patients with bronchospastic lung disease should not receive beta-blockers. Propranolol should be administered with caution in this setting since it may provoke a bronchial asthmatic attack by blocking bronchodilation produced by endogenous and exogenous catecholamine stimulation of beta-receptors. Major Surgery Chronically administered beta-blocking therapy should not be routinely withdrawn prior to major surgery, however the impaired ability of the heart to respond to reflex adrenergic stimuli may augment the risks of general anesthesia and surgical procedures. Diabetes and Hypoglycemia Beta-adrenergic blockade may prevent the appearance of certain premonitory signs and symptoms (pulse rate and pressure changes) of acute hypoglycemia, especially in labile insulin-dependent diabetics. In these patients, it may be more difficult to adjust the dosage of insulin. Propranolol therapy, particularly when given to infants and children, diabetic or not, has been associated with hypoglycemia especially during fasting as in preparation for surgery. Hypoglycemia has been reported in patients taking propranolol after prolonged physical exertion and in patients with renal insufficiency. Thyrotoxicosis Beta-adrenergic blockade may mask certain clinical signs of hyperthyroidism. Therefore, abrupt withdrawal of propranolol may be followed by an exacerbation of symptoms of hyperthyroidism, including thyroid storm. Propranolol may change thyroid-function tests, increasing T 4 and reverse T 3 , and decreasing T 3 . Wolff-Parkinson-White Syndrome Beta-adrenergic blockade in patients with Wolff-Parkinson-White syndrome and tachycardia has been associated with severe bradycardia requiring treatment with a pacemaker. In one case, this result was reported after an initial dose of 5 mg propranolol."
+  ],
+  "boxed_warning": [
+    "Angina Pectoris There have been reports of exacerbation of angina and, in some cases, myocardial infarction, following abrupt discontinuance of propranolol therapy. Therefore, when discontinuance of propranolol is planned, the dosage should be gradually reduced over at least a few weeks, and the patient should be cautioned against interruption or cessation of therapy without the physician's advice. If propranolol therapy is interrupted and exacerbation of angina occurs, it usually is advisable to reinstitute propranolol therapy and take other measures appropriate for the management of unstable angina pectoris. Since coronary artery disease may be unrecognized, it may be prudent to follow the above advice in patients considered at risk of having occult atherosclerotic heart disease who are given propranolol for other indications."
+  ],
+  "indications_and_usage": [
+    "INDICATIONS AND USAGE Hypertension Propranolol Hydrochloride Extended-Release Capsules, USP, are indicated in the management of hypertension. They may be used alone or used in combination with other antihypertensive agents, particularly a thiazide diuretic. Propranolol Hydrochloride Extended-Release Capsules, USP, are not indicated in the management of hypertensive emergencies. Angina Pectoris Due to Coronary Atherosclerosis Propranolol Hydrochloride Extended-Release Capsules, USP, are indicated to decrease angina frequency and increase exercise tolerance in patients with angina pectoris. Migraine Propranolol Hydrochloride Extended-Release Capsules, USP, are indicated for the prophylaxis of common migraine headache. The efficacy of propranolol in the treatment of a migraine attack that has started has not been established, and propranolol is not indicated for such use. Hypertrophic Subaortic Stenosis Propranolol Hydrochloride Extended-Release Capsules, USP, improve NYHA functional class in symptomatic patients with hypertrophic subaortic stenosis."
+  ],
+  "contraindications": [
+    "CONTRAINDICATIONS Propranolol is contraindicated in 1) cardiogenic shock; 2) sinus bradycardia and greater than first-degree block; 3) bronchial asthma; and 4) in patients with known hypersensitivity to propranolol hydrochloride."
+  ],
+  "overdosage": [
+    "OVERDOSAGE Propranolol is not significantly dialyzable. In the event of overdosage or exaggerated response, the following measures should be employed: General If ingestion is or may have been recent, evacuate gastric contents, taking care to prevent pulmonary aspiration. Supportive Therapy Hypotension and bradycardia have been reported following propranolol overdose and should be treated appropriately. Glucagon can exert potent inotropic and chronotropic effects and may be particularly useful for the treatment of hypotension or depressed myocardial function after a propranolol overdose. Glucagon should be administered as 50-150 mcg/kg intravenously followed by continuous drip of 1-5 mg/hour for positive chronotropic effect. Isoproterenol, dopamine or phosphodiesterase inhibitors may also be useful. Epinephrine, however, may provoke uncontrolled hypertension. Bradycardia can be treated with atropine or isoproterenol. Serious bradycardia may require temporary cardiac pacing. The electrocardiogram, pulse, blood pressure, neurobehavioral status and intake and output balance must be monitored. Isoproterenol and aminophylline may be used for bronchospasm."
+  ],
+  "openfda": {
+    "application_number": [
+      "ANDA078703"
+    ],
+    "brand_name": [
+      "Propranolol Hydrochloride"
+    ],
+    "generic_name": [
+      "PROPRANOLOL HYDROCHLORIDE"
+    ],
+    "manufacturer_name": [
+      "American Health Packaging"
+    ],
+    "product_ndc": [
+      "60687-215",
+      "60687-226"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "PROPRANOLOL HYDROCHLORIDE"
+    ],
+    "rxcui": [
+      "856535",
+      "856569"
+    ],
+    "spl_id": [
+      "3f2c1ac2-1bb2-3613-e063-6394a90a211f"
+    ],
+    "spl_set_id": [
+      "015b5e4f-3228-4259-b419-e0e49694a058"
+    ],
+    "package_ndc": [
+      "60687-215-11",
+      "60687-215-01",
+      "60687-226-11",
+      "60687-226-01"
+    ],
+    "original_packager_product_ndc": [
+      "51991-817",
+      "51991-818"
+    ],
+    "unii": [
+      "F8A3652H1V"
+    ]
+  }
+}

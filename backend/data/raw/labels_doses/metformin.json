@@ -1,0 +1,89 @@
+{
+  "generic_name": "metformin",
+  "set_id": "0098dec4-f0e5-45d5-8aa4-5d0faf9ab142",
+  "id": "8c26dc1a-fba3-4266-bfaf-624b0941ef8b",
+  "openfda_brand_name": "ZITUVIMET",
+  "query_url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name:\"metformin\"&limit=10",
+  "dosage_and_administration": [
+    "2 DOSAGE AND ADMINISTRATION Take ZITUVIMET orally twice daily with meals. ( 2.1 ) Individualize the dosage of ZITUVIMET on the basis of the patient's current regimen, effectiveness, and tolerability. ( 2.1 ) The maximum recommended daily dose is 100 mg of sitagliptin and 2,000 mg of metformin HCl. ( 2.1 ) The recommended starting dose in patients not currently treated with metformin is 50 mg sitagliptin and 500 mg metformin HCl twice daily, with gradual dose escalation recommended to reduce gastrointestinal side effects associated with metformin. ( 2.1 ) The starting dose in patients already treated with metformin should provide sitagliptin dosed as 50 mg twice daily (100 mg total daily dose) and the dose of metformin already being taken. For patients taking metformin HCl 850 mg twice daily, the recommended starting dose of ZITUVIMET is 50 mg sitagliptin and 1,000 mg metformin HCl twice daily. ( 2.1 ) Prior to initiation, assess renal function with estimated glomerular filtration rate (eGFR) ( 2.2 ) \u25cb Do not use in patients with eGFR below 30 mL/min/1.73 m 2 \u25cb ZITUVIMET is not recommended in patients with eGFR between 30 and less than 45 mL/min/1.73 m 2 . ZITUVIMET may need to be discontinued at time of, or prior to, iodinated contrast imaging procedures. ( 2.3 ) 2.1 Recommended Dosage Take ZITUVIMET orally twice daily with meals. Individualize the dosage of ZITUVIMET on the basis of the patient's current regimen, effectiveness, and tolerability. The maximum recommended daily dose is 100 mg of sitagliptin and 2,000 mg of metformin hydrochloride (HCl). Do not split or divide ZITUVIMET tablets. The recommended starting dose in patients not currently treated with metformin is 50 mg sitagliptin and 500 mg metformin HCl twice daily, with gradual dose escalation recommended to reduce gastrointestinal side effects associated with metformin. The starting dose in patients already treated with metformin should provide sitagliptin dosed as 50 mg twice daily (100 mg total daily dose) and the dose of metformin already being taken. For patients taking metformin HCl 850 mg twice daily, the recommended starting dose of ZITUVIMET is 50 mg sitagliptin and 1,000 mg metformin HCl twice daily. 2.2 Recommendations for Use in Renal Impairment Assess renal function prior to initiation of ZITUVIMET and periodically thereafter. ZITUVIMET is contraindicated in patients with an estimated glomerular filtration rate (eGFR) below 30 mL/min/1.73 m 2 [see Contraindications ( 4 ) and Warnings and Precautions ( 5.1 )]. ZITUVIMET is not recommended in patients with an eGFR between 30 and less than 45 mL/min/1.73 m 2 because these patients require a lower dosage of sitagliptin than what is available in the fixed combination ZITUVIMET product. 2.3 Discontinuation for Iodinated Contrast Imaging Procedures Discontinue ZITUVIMET at the time of, or prior to, an iodinated contrast imaging procedure in patients with an eGFR between 30 and 60 mL/min/1.73 m 2 ; in patients with a history of liver disease, alcoholism, or heart failure; or in patients who will be administered intra-arterial iodinated contrast. Re-evaluate eGFR 48 hours after the imaging procedure; restart ZITUVIMET if renal function is stable [see Warnings and Precautions ( 5.1 )]."
+  ],
+  "dosage_forms_and_strengths": [
+    "3 DOSAGE FORMS AND STRENGTHS ZITUVIMET Tablets: \u2022 sitagliptin 50 mg and metformin HCl 500 mg tablets \u2022 sitagliptin 50 mg and metformin HCl 1,000 mg tablets ( 3 ) Tablets: sitagliptin 50 mg and metformin HCl 500 mg tablets are white to off-white, oval shaped, biconvex, film coated tablets debossed with \"1786\" on one side and plain on the other side. sitagliptin 50 mg and metformin HCl 1,000 mg tablets are reddish brown, oval shaped, biconvex, film coated tablets debossed with \"1787\" on one side and plain on the other side."
+  ],
+  "warnings": [],
+  "boxed_warning": [
+    "WARNING: LACTIC ACIDOSIS WARNING: LACTIC ACIDOSIS See full prescribing information for complete boxed warning . Postmarketing cases of metformin-associated lactic acidosis have resulted in death, hypothermia, hypotension, and resistant bradyarrhythmias. Symptoms included malaise, myalgias, respiratory distress, somnolence, and abdominal pain. Laboratory abnormalities included elevated blood lactate levels, anion gap acidosis, increased lactate/pyruvate ratio, and metformin plasma levels generally >5 mcg/mL. ( 5.1 ) Risk factors include renal impairment, concomitant use of certain drugs, age \u226565 years old, radiological studies with contrast, surgery and other procedures, hypoxic states, excessive alcohol intake, hepatic impairment, mitochondrial diseases. Steps to reduce the risk of and manage metformin-associated lactic acidosis in these high-risk groups are provided in the Full Prescribing Information. ( 5.1 ) If lactic acidosis is suspected, discontinue ZITUVIMET and institute general supportive measures in a hospital setting. Prompt hemodialysis is recommended. ( 5.1 ) Postmarketing cases of metformin-associated lactic acidosis have resulted in death, hypothermia, hypotension, and resistant bradyarrhythmias. The onset of metformin-associated lactic acidosis is often subtle, accompanied only by nonspecific symptoms such as malaise, myalgias, respiratory distress, somnolence, and abdominal pain. Metformin-associated lactic acidosis was characterized by elevated blood lactate levels (>5 mmol/Liter), anion gap acidosis (without evidence of ketonuria or ketonemia), an increased lactate/pyruvate ratio, and metformin plasma levels generally >5 mcg/mL [see Warnings and Precautions ( 5.1 )] . Risk factors for metformin-associated lactic acidosis include renal impairment, concomitant use of certain drugs (e.g., carbonic anhydrase inhibitors such as topiramate), age 65 years old or greater, having a radiological study with contrast, surgery and other procedures, hypoxic states (e.g., acute congestive heart failure), excessive alcohol intake, hepatic impairment and mitochondrial diseases [see Warnings and Precautions (5.1)] . Steps to reduce the risk of and manage metformin-associated lactic acidosis in these high risk groups are provided in the full prescribing information [see Dosage and Administration ( 2.2 )>, Contraindications ( 4 ), Warnings and Precautions ( 5.1 ), Drug Interactions ( 7 ), and Use in Specific Populations ( 8.6 , 8.7 )] . If metformin-associated lactic acidosis is suspected, immediately discontinue ZITUVIMET and institute general supportive measures in a hospital setting. Prompt hemodialysis is recommended [see Warnings and Precautions ( 5.1 )] ."
+  ],
+  "indications_and_usage": [
+    "1 INDICATIONS AND USAGE ZITUVIMET is a combination of sitagliptin, a dipeptidyl peptidase-4 (DPP-4) inhibitor, and metformin hydrochloride (HCl), a biguanide, indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus. ( 1 ) Limitations of Use: ZITUVIMET is not recommended in patients with type 1 diabetes mellitus. ( 1 ) ZITUVIMET has not been studied in patients with a history of pancreatitis. ( 1 ) ZITUVIMET is indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus. Limitations of Use ZITUVIMET is not recommended in patients with type 1 diabetes mellitus. ZITUVIMET has not been studied in patients with a history of pancreatitis. It is unknown whether patients with a history of pancreatitis are at increased risk for the development of pancreatitis while using ZITUVIMET. [see Warnings and Precautions ( 5.2 )]."
+  ],
+  "contraindications": [
+    "4 CONTRAINDICATIONS Severe renal impairment: (eGFR below 30 mL/min/1.73 m 2 ) ( 4) Metabolic acidosis, including diabetic ketoacidosis. ( 4 ) History of a serious hypersensitivity reaction to ZITUVIMET, sitagliptin, or metformin, such as anaphylaxis or angioedema. (4) ZITUVIMET is contraindicated in patients with: Severe renal impairment (eGFR below 30 mL/min/1.73 m 2 ) [see Warnings and Precautions ( 5.1 )]. Acute or chronic metabolic acidosis, including diabetic ketoacidosis. History of a serious hypersensitivity reaction to sitagliptin, metformin, or any of the excipients in ZITUVIMET. Serious hypersensitivity reactions including anaphylaxis or angioedema have been reported. [see Warnings and Precautions ( 5.7 ) and Adverse Reactions ( 6.2 )]."
+  ],
+  "overdosage": [
+    "10 OVERDOSAGE In the event of overdose with ZITUVIMET, consider contacting the Poison Help Line (1-800-222-1222) or a medical toxicologist for additional overdosage management recommendations. Employ the usual supportive measures dictated by the patient's clinical status. Per clinical judgement, consider removal of unabsorbed material from the gastrointestinal tract, and clinical monitoring (including obtaining an ECG). Sitagliptin is modestly dialyzable. In clinical studies, approximately 13.5% of the dose was removed over a 3- to 4-hour hemodialysis session. Prolonged hemodialysis may be considered if clinically appropriate. It is not known if sitagliptin is dialyzable by peritoneal dialysis. Overdose of metformin has occurred, including ingestion of amounts greater than 50 grams. Hypoglycemia was reported in approximately 10% of cases, but no causal association with metformin has been established. Lactic acidosis has been reported in approximately 32% of metformin overdose cases [see Warnings and Precautions ( 5.1 )]. Metformin is dialyzable with a clearance of up to 170 mL/min under good hemodynamic conditions. Therefore, hemodialysis may be useful for removal of accumulated drug from patients in whom metformin overdosage is suspected."
+  ],
+  "openfda": {
+    "application_number": [
+      "NDA216743"
+    ],
+    "brand_name": [
+      "ZITUVIMET"
+    ],
+    "generic_name": [
+      "SITAGLIPTIN AND METFORMIN HYDROCHLORIDE"
+    ],
+    "manufacturer_name": [
+      "Zydus Lifesciences Limited"
+    ],
+    "product_ndc": [
+      "70771-1859",
+      "70771-1860"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "SITAGLIPTIN",
+      "METFORMIN HYDROCHLORIDE"
+    ],
+    "rxcui": [
+      "861769",
+      "861819",
+      "2677162",
+      "2677164"
+    ],
+    "spl_id": [
+      "8c26dc1a-fba3-4266-bfaf-624b0941ef8b"
+    ],
+    "spl_set_id": [
+      "0098dec4-f0e5-45d5-8aa4-5d0faf9ab142"
+    ],
+    "package_ndc": [
+      "70771-1859-6",
+      "70771-1859-8",
+      "70771-1860-6",
+      "70771-1860-8"
+    ],
+    "is_original_packager": [
+      true
+    ],
+    "nui": [
+      "N0000175913",
+      "N0000175912"
+    ],
+    "pharm_class_epc": [
+      "Dipeptidyl Peptidase 4 Inhibitor [EPC]"
+    ],
+    "pharm_class_moa": [
+      "Dipeptidyl Peptidase 4 Inhibitors [MoA]"
+    ],
+    "unii": [
+      "QFP0P1DV7Z",
+      "786Z46389E"
+    ]
+  }
+}

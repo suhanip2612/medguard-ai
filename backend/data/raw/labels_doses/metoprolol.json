@@ -1,0 +1,72 @@
+{
+  "generic_name": "metoprolol",
+  "set_id": "00940cc5-d2eb-4841-9138-de97d7b1c674",
+  "id": "806d7d73-8e7c-4cb1-91c6-f0f9aa61e51a",
+  "openfda_brand_name": "METOPROLOL TARTRATE",
+  "query_url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name:\"metoprolol\"&limit=10",
+  "dosage_and_administration": [
+    "2 DOSAGE AND ADMINISTRATION \u2022 Administer once daily with food or after a meal. Titrate at weekly or longer intervals as needed and tolerated. ( 2 ) \u2022 Hypertension: Recommended starting dosage is 100 mg daily, in single or divided doses. ( 2.1 ) \u2022 Angina Pectoris: Recommended starting dosage is 100 mg daily, given as two divided doses. ( 2.2 ) \u2022 Myocardial Infarction: The starting dosage depends upon tolerance of intravenous metoprolol, see full prescribing information. ( 2.3 ) 2.1 Hypertension Individualize the dosage of metoprolol tartrate tablets. Metoprolol tartrate tablets should be taken with or immediately following meals. The usual initial dosage is 100 mg daily in single or divided doses. Adjust dosage at weekly (or longer) intervals until optimum blood pressure reduction is achieved. In general, the maximum effect of any given dosage level will be apparent after 1 week of therapy. The effective dosage range of metoprolol tartrate tablets is 100 mg to 450 mg per day. Dosages above 450 mg per day have not been studied. While once-daily dosing can maintain a reduction in blood pressure throughout the day, lower doses (especially 100 mg) may not maintain a full effect at the end of the 24-hour period. Larger or more frequent daily doses may be required. Measure blood pressure near the end of the dosing interval to determine whether satisfactory control is being maintained throughout the day. 2.2 Angina Pectoris The dosage of metoprolol tartrate tablets should be individualized. Metoprolol tartrate tablets should be taken with or immediately following meals. The usual initial dosage is 100 mg daily, given in two divided doses. Gradually increase the dosage at weekly intervals until optimum clinical response has been obtained or there is a pronounced slowing of the heart rate. The effective dosage range of metoprolol tartrate tablets is 100 to 400 mg per day. Dosages above 400 mg per day have not been studied. If treatment is to be discontinued, reduce the dosage gradually over a period of 1 to 2 weeks [see Warnings and Precautions (5.1)]. 2.3 Myocardial Infarction See prescribing information of intravenous metoprolol for dosage instructions for intravenous therapy. In patients who tolerate the full intravenous dose, initiate metoprolol tartrate tablets, 50 mg every 6 hours, 15 minutes after the last intravenous dose of metoprolol and continue for 48 hours. In the case of intolerance, reduce dose to 25 mg and administer for 48 hours. Titrate, based on tolerability, to a maintenance dosage of 100 mg twice daily. Continue therapy for at least 3 months. Although the efficacy of metoprolol tartrate beyond 3 months has not been conclusively established, data from studies with other beta-blockers suggest that treatment should be continued for 1 to 3 years."
+  ],
+  "dosage_forms_and_strengths": [
+    "3 DOSAGE FORMS AND STRENGTHS Metoprolol tartrate tablets, USP are supplied as: 25 mg tablets having functional scoring are white to off white film coated, round, biconvex tablet debossed with \u2018L150\u2019 on one side and breakline on other side. 50 mg tablets having functional scoring are pink, film coated, round, biconvex tablet debossed with \u2018L151\u2019 on one side and breakline on other side. 100 mg tablets having functional scoring are blue, film coated, round, biconvex tablet debossed with \u2018L152\u2019 on one side and breakline on other side. \u2022 Metoprolol tartrate tablets having functional scoring: 25 mg, 50 mg and 100 mg. ( 3 )"
+  ],
+  "warnings": [],
+  "boxed_warning": [],
+  "indications_and_usage": [
+    "1 INDICATIONS AND USAGE Metoprolol tartrate tablet is a beta-adrenergic blocker indicated for the treatment of: \u2022 Hypertension, to lower blood pressure. Lowering blood pressure reduces the risk of fatal and non-fatal cardiovascular events, primarily strokes and myocardial infarctions. ( 1.1 ) \u2022 Angina Pectoris. ( 1.2 ) \u2022 Myocardial Infarction, to reduce the risk of cardiovascular mortality when used in conjunction with intravenous metoprolol therapy in patients with definite or suspected acute myocardial infarction in hemodynamically stable patients. ( 1.3 ) 1.1 Hypertension Metoprolol tartrate tablets are indicated for the treatment of hypertension in adult patients, to lower blood pressure. Lowering blood pressure lowers the risk of fatal and non-fatal cardiovascular events, primarily strokes and myocardial infarctions. These benefits have been seen in controlled trials of antihypertensive drugs from a wide variety of pharmacologic classes including metoprolol. Control of high blood pressure should be part of comprehensive cardiovascular risk management, including, as appropriate, lipid control, diabetes management, antithrombotic therapy, smoking cessation, exercise, and limited sodium intake. Many patients will require more than 1 drug to achieve blood pressure goals. For specific advice on goals and management, see published guidelines, such as those of the National High Blood Pressure Education Program\u2019s Joint National Committee on Prevention, Detection, Evaluation, and Treatment of High Blood Pressure (JNC). Numerous antihypertensive drugs, from a variety of pharmacologic classes and with different mechanisms of action, have been shown in randomized controlled trials to reduce cardiovascular morbidity and mortality, and it can be concluded that it is blood pressure reduction, and not some other pharmacologic property of the drugs, that is largely responsible for those benefits. The largest and most consistent cardiovascular outcome benefit has been a reduction in the risk of stroke, but reductions in myocardial infarction and cardiovascular mortality also have been seen regularly. Elevated systolic or diastolic pressure causes increased cardiovascular risk, and the absolute risk increase per mmHg is greater at higher blood pressures, so that even modest reductions of severe hypertension can provide substantial benefit. Relative risk reduction from blood pressure reduction is similar across populations with varying absolute risk, so the absolute benefit is greater in patients who are at higher risk independent of their hypertension (for example, patients with diabetes or hyperlipidemia), and such patients would be expected to benefit from more aggressive treatment to a lower blood pressure goal. Some antihypertensive drugs have smaller blood pressure effects (as monotherapy) in black patients, and many antihypertensive drugs have additional approved indications and effects (e.g., on angina, heart failure, or diabetic kidney disease). These considerations may guide selection of therapy. Metoprolol tartrate tablets may be administered with other antihypertensive agents. 1.2 Angina Pectoris Metoprolol tartrate tablets are indicated in the long-term treatment of angina pectoris, to reduce angina attacks and to improve exercise tolerance. 1.3 Myocardial Infarction Metoprolol tartrate tablets are indicated in the treatment of hemodynamically stable patients with definite or suspected acute myocardial infarction to reduce cardiovascular mortality when used alone or in conjunction with intravenous metoprolol."
+  ],
+  "contraindications": [
+    "4 CONTRAINDICATIONS Metoprolol tartrate tablets are contraindicated in severe bradycardia, second-or third-degree heart block, cardiogenic shock, systolic blood pressure <100, decompensated heart failure, sick sinus syndrome (unless a permanent pacemaker is in place), and in patients who are hypersensitive to any component of this product. \u2022 Known hypersensitivity to product components. ( 4 ) \u2022 Severe bradycardia: Greater than first degree heart block, or sick sinus syndrome without a pacemaker. ( 4 ) \u2022 Cardiogenic shock or decompensated heart failure. ( 4 )"
+  ],
+  "overdosage": [
+    "10 OVERDOSAGE Signs and Symptoms \u2013 Overdosage of metoprolol tartrate may lead to severe bradycardia, hypotension, and cardiogenic shock. Clinical presentation can also include: atrioventricular block, heart failure, bronchospasm, hypoxia, impairment of consciousness/coma, nausea and vomiting. Treatment \u2013 Consider treating the patient with intensive care. Patients with myocardial infarction or heart failure may be prone to significant hemodynamic instability. Beta-blocker overdose may result in significant resistance to resuscitation with adrenergic agents, including beta-agonists. On the basis of the pharmacologic actions of metoprolol, employ the following measures. Hemodialysis is unlikely to make a useful contribution to metoprolol elimination [see Clinical Pharmacology (12.3)]. Bradycardia: Evaluate the need for atropine, adrenergic-stimulating drugs or pacemaker to treat bradycardia and conduction disorders. Hypotension: Treat underlying bradycardia. Consider intravenous vasopressor infusion, such as dopamine or norepinephrine. Heart failure and shock: May be treated when appropriate with suitable volume expansion, injection of glucagon (if necessary, followed by an intravenous infusion of glucagon), intravenous administration of adrenergic drugs such as dobutamine, with \u03b11 receptor agonistic drugs added in presence of vasodilation. Bronchospasm: Can usually be reversed by bronchodilators."
+  ],
+  "openfda": {
+    "application_number": [
+      "ANDA202871"
+    ],
+    "brand_name": [
+      "METOPROLOL TARTRATE"
+    ],
+    "generic_name": [
+      "METOPROLOL"
+    ],
+    "manufacturer_name": [
+      "Bryant Ranch Prepack"
+    ],
+    "product_ndc": [
+      "71335-3159"
+    ],
+    "product_type": [
+      "HUMAN PRESCRIPTION DRUG"
+    ],
+    "route": [
+      "ORAL"
+    ],
+    "substance_name": [
+      "METOPROLOL TARTRATE"
+    ],
+    "rxcui": [
+      "866511"
+    ],
+    "spl_id": [
+      "806d7d73-8e7c-4cb1-91c6-f0f9aa61e51a"
+    ],
+    "spl_set_id": [
+      "00940cc5-d2eb-4841-9138-de97d7b1c674"
+    ],
+    "package_ndc": [
+      "71335-3159-1",
+      "71335-3159-2",
+      "71335-3159-3",
+      "71335-3159-4",
+      "71335-3159-5"
+    ],
+    "original_packager_product_ndc": [
+      "62332-114"
+    ],
+    "unii": [
+      "W5S57Y3A5L"
+    ]
+  }
+}

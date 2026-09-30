@@ -1,0 +1,319 @@
+generic,brand,row_count,example_name
+amiodarone,Eurythmic,4,Eurythmic 150mg Injection
+amiodarone,Cordarone,3,Cordarone Tablet
+amiodarone,Amidone,2,Amidone 100 Tablet
+amiodarone,Amiodar,2,Amiodar 200 Tablet
+amiodarone,Amiodon,2,Amiodon 100mg Tablet
+amiodarone,Amiojust,2,Amiojust 200mg Tablet
+amiodarone,Amione,2,Amione 200mg Tablet
+amiodarone,Amipace,2,Amipace 100 Tablet
+amlodipine,Amlong,6,Amlong Tablet
+amlodipine,Amlo,5,Amlo 5mg Tablet
+amlodipine,Adp,4,Adp 5mg Tablet
+amlodipine,Aldo,3,Aldo 5mg Tablet
+amlodipine,Amaday,3,Amaday 10mg Tablet
+amlodipine,Amcard,3,Amcard 5 Tablet
+amlodipine,Amchek,3,Amchek 5 Tablet
+amlodipine,Amdepin,3,Amdepin 5 Tablet
+amoxicillin,Novamox,14,Novamox 500 Capsule
+amoxicillin,Mox,11,Mox 500mg Capsule
+amoxicillin,Amox,10,Amox 500mg Capsule
+amoxicillin,Almox,8,Almox 500 Capsule
+amoxicillin,Elmox,8,Elmox 500mg Capsule
+amoxicillin,Amoxil,7,Amoxil 250mg Capsule
+amoxicillin,Cemox,7,Cemox 500mg Capsule
+amoxicillin,Moxica,7,Moxica 500mg Capsule
+ampicillin,Aristocillin,8,Aristocillin 500mg Injection
+ampicillin,Broadicilin,8,Broadicilin 500mg Capsule
+ampicillin,Biocilin,7,Biocilin 500mg Injection
+ampicillin,Ampilin,5,Ampilin 500mg Injection
+ampicillin,Nepocil,5,Nepocil 125mg Dry Syrup
+ampicillin,Ampi,4,Ampi 500mg Injection
+ampicillin,Ampilon,4,Ampilon 500 Capsule
+ampicillin,Ampimet,4,Ampimet 250mg Capsule
+aspirin,Ecosprin,3,Ecosprin 75 Tablet
+aspirin,Actisprin,2,Actisprin 150mg Tablet
+aspirin,Aspeeday,2,Aspeeday 75mg Tablet
+aspirin,Aspirin,2,Aspirin 300mg Tablet
+aspirin,Aspo,2,Aspo 75 Tablet
+aspirin,Brin,2,Brin 75mg Tablet
+aspirin,Cotaspirin,2,Cotaspirin 500mg Tablet
+aspirin,Zosprin,2,ZOSPRIN 75MG TABLET
+atorvastatin,Atorica,10,Atorica 10 Tablet
+atorvastatin,Lipicure,9,Lipicure 20 Tablet
+atorvastatin,Storvas,9,Storvas 10 Tablet
+atorvastatin,Atorfirst,8,Atorfirst 10mg Tablet
+atorvastatin,Atorfit,8,Atorfit 10 Tablet
+atorvastatin,Atorlip,8,Atorlip 10 Tablet
+atorvastatin,Biotor,8,Biotor 10mg Tablet
+atorvastatin,Intor,8,Intor 10mg Tablet
+azithromycin,Azithral,20,Azithral 500 Tablet
+azithromycin,Azi,19,Azi 500mg Tablet
+azithromycin,Azee,11,Azee 500 Tablet
+azithromycin,Zycin,10,Zycin 500 Tablet
+azithromycin,Azikem,9,Azikem 500mg Tablet
+azithromycin,Azilide,9,Azilide 250 Tablet
+azithromycin,Azilife,9,Azilife 500mg Tablet
+azithromycin,Azimax,9,Azimax 500 Tablet
+cetirizine,Cetcip,4,Cetcip Tablet
+cetirizine,Cetmet,4,Cetmet 10mg Tablet
+cetirizine,Ctz,4,Ctz 10 Tablet
+cetirizine,Histacet,4,Histacet 10mg Tablet
+cetirizine,Sizon,4,Sizon 5 Tablet
+cetirizine,Zyrtec,4,Zyrtec Syrup
+cetirizine,Acet,3,Acet 10mg Tablet
+cetirizine,Alcet,3,Alcet 5mg/5ml Syrup
+ciprofloxacin,Ciplox,8,Ciplox Eye/Ear Drops
+ciprofloxacin,Cifran,7,Cifran 500 Tablet
+ciprofloxacin,Cipdose,7,Cipdose 500mg Tablet
+ciprofloxacin,Cefobang,6,Cefobang 1.5gm Injection
+ciprofloxacin,Cipro,6,Cipro 500mg Tablet
+ciprofloxacin,Ciprodac,6,Ciprodac 500 Tablet
+ciprofloxacin,Ciprozen,6,Ciprozen 500mg Tablet
+ciprofloxacin,Ciprobid,5,Ciprobid 500 Tablet
+clarithromycin,Crixan,8,Crixan 500 Tablet
+clarithromycin,Clariwin,6,Clariwin 500 Tablet
+clarithromycin,Klarim,6,Klarim 500 Tablet
+clarithromycin,Synclar,6,Synclar Paediatric Dry Syrup Banana
+clarithromycin,Claribid,5,Claribid 500 Tablet
+clarithromycin,Clarinova,5,Clarinova 250 Tablet
+clarithromycin,Cloff,5,Cloff 250mg Tablet
+clarithromycin,Biomycin,4,Biomycin Cream
+clopidogrel,Clofirst,4,Clofirst 75mg Tablet
+clopidogrel,Clavix,3,Clavix Tablet
+clopidogrel,Plagril,3,Plagril 75 Tablet
+clopidogrel,Clodrel,2,Clodrel Tablet
+clopidogrel,Clopicare,2,Clopicare 75mg Tablet
+clopidogrel,Clopikind,2,Clopikind Tablet
+clopidogrel,Clopilet,2,Clopilet Tablet
+clopidogrel,Clopirel,2,Clopirel 75mg Tablet
+diclofenac,Dilona,8,Dilona 25mg Injection
+diclofenac,Dynapar,7,Dynapar AQ Injection 1ml
+diclofenac,Justin,7,Justin 100mg Suppository
+diclofenac,Nac,7,NAC SR 75 Tablet
+diclofenac,Powerflam,7,Powerflam 50mg Tablet MR
+diclofenac,Activa,6,Activa 50mg Tablet
+diclofenac,Dic,6,Dic 100mg Tablet
+diclofenac,Diclo,6,Diclo Gel
+digoxin,Dixin,4,Dixin Tablet
+digoxin,Geoxin,2,Geoxin 0.25mg Tablet
+digoxin,Lanoxin,2,Lanoxin Tablet
+digoxin,Canrythm,1,Canrythm 0.25mg Tablet
+digoxin,Cardin,1,Cardin 0.25mg Tablet
+digoxin,Cardioxin,1,Cardioxin 0.25mg Tablet
+digoxin,Cardisip,1,Cardisip Syrup
+digoxin,Caxin,1,Caxin 0.25mg Tablet
+enalapril,Enace,4,Enace 5 Tablet
+enalapril,Enapril,4,Enapril 5 Tablet
+enalapril,Bql,3,Bql 10mg Tablet
+enalapril,Cardiril,3,Cardiril 2.5mg Tablet
+enalapril,Colpril,3,Colpril 5mg Tablet
+enalapril,Converten,3,Converten 10mg Tablet
+enalapril,Dilvas,3,Dilvas 5 Tablet
+enalapril,Elpril,3,Elpril 5mg Tablet
+fluoxetine,Prodep,6,Prodep Capsule
+fluoxetine,Fludac,5,Fludac Capsule
+fluoxetine,Fludep,5,Fludep 20mg Capsule
+fluoxetine,Flunil,5,Flunil 20 Capsule
+fluoxetine,Flutop,5,Flutop 20 Capsule
+fluoxetine,Cozac,4,Cozac 20mg Capsule
+fluoxetine,Cyclotin,4,Cyclotin 10 Tablet
+fluoxetine,Floatin,4,Floatin 20mg Tablet
+furosemide,Lasix,2,Lasix Tablet
+furosemide,Cgfru,1,Cgfru 40mg Tablet
+furosemide,Frusenat,1,Frusenat Injection
+furosemide,Frusenex,1,Frusenex 100 Tablet
+furosemide,Frusizex,1,Frusizex 10mg Injection
+furosemide,Furene,1,Furene 10mg Injection
+furosemide,Furoped,1,Furoped Oral Solution Pineapple
+furosemide,Lasipen,1,Lasipen 40mg Tablet
+gabapentin,Gabapin,7,Gabapin 100 Tablet
+gabapentin,Gabatol,5,Gabatol 100mg Tablet
+gabapentin,Gabatop,5,Gabatop 300 Capsule
+gabapentin,Flygab,4,Flygab 400mg Tablet
+gabapentin,Gaba,4,Gaba 300 Tablet
+gabapentin,Gabator,4,Gabator 100 Capsule
+gabapentin,Gabtas,4,Gabtas 100mg Tablet
+gabapentin,Rygab,4,Rygab 300mg Tablet
+glimepiride,Zoryl,9,Zoryl 1 Tablet
+glimepiride,Apriglim,7,Apriglim 1 Tablet
+glimepiride,Gamaryl,6,Gamaryl 1mg Tablet
+glimepiride,Bepride,5,Bepride 2mg Tablet
+glimepiride,Glimfirst,5,Glimfirst 3mg Tablet
+glimepiride,Glimibrit,5,Glimibrit 1mg Tablet
+glimepiride,Glimicure,5,Glimicure 1mg Tablet
+glimepiride,Glimsy,5,Glimsy 1mg Tablet
+hydrochlorothiazide,Aquazide,2,Aquazide 12.5 Tablet
+hydrochlorothiazide,Bpzide,2,Bpzide 12.5mg Tablet
+hydrochlorothiazide,Dizide,2,Dizide Tablet
+hydrochlorothiazide,Hydrazide,2,Hydrazide 12.5 Tablet
+hydrochlorothiazide,Hydrocl,2,Hydrocl 12.5mg Tablet
+hydrochlorothiazide,Hydronol,2,Hydronol 12.5mg Tablet
+hydrochlorothiazide,Hyzide,2,Hyzide 12.5mg Tablet
+hydrochlorothiazide,Thiazide,2,Thiazide 12.5mg Tablet
+ibuprofen,Bren,4,BREN 400MG TABLET
+ibuprofen,Ibugesic,4,Ibugesic Oral Suspension Orange
+ibuprofen,Brufen,3,Brufen 400 Tablet
+ibuprofen,Emflam,3,Emflam 400mg Tablet
+ibuprofen,Tricofen,3,Tricofen 200mg Tablet
+ibuprofen,Ibubid,2,Ibubid 600mg Tablet SR
+ibuprofen,Ibuflamar,2,IBUFLAMAR 400MG TABLET
+ibuprofen,Ibugrap,2,Ibugrap 200mg Tablet
+isosorbide_mononitrate,Isonit,10,Isonit 30 SR Tablet
+isosorbide_mononitrate,Monotrate,7,Monotrate 10 Tablet
+isosorbide_mononitrate,Ihd,6,Ihd 30mg Tablet SR
+isosorbide_mononitrate,Monit,6,Monit 30 SR Tablet
+isosorbide_mononitrate,Nitrofix,5,Nitrofix SR 30 Tablet
+isosorbide_mononitrate,Isonorm,4,Isonorm 30 SR Tablet
+isosorbide_mononitrate,Ismo,3,Ismo 20 Tablet
+isosorbide_mononitrate,Nitrofirst,3,Nitrofirst 20mg Tablet
+levothyroxine,Thyrox,16,Thyrox 50 Tablet
+levothyroxine,Thyronorm,13,Thyronorm 25mcg Tablet
+levothyroxine,Thyroup,11,Thyroup 50 Tablet
+levothyroxine,Lethyrox,9,Lethyrox 25 Tablet
+levothyroxine,Euthyrox,8,Euthyrox 50 Tablet
+levothyroxine,Thyropax,8,Thyropax 25mcg Tablet
+levothyroxine,Thyroxinol,8,Thyroxinol 25 Tablet
+levothyroxine,Eltroxin,7,Eltroxin 100mcg Tablet
+lisinopril,Lisir,4,Lisir 10mg Tablet
+lisinopril,Zestril,4,Zestril 10mg Tablet
+lisinopril,Angiotensin,3,Angiotensin 2.5mg Tablet
+lisinopril,Biopril,3,Biopril 5mg Tablet
+lisinopril,Hipril,3,Hipril 2.5mg Tablet
+lisinopril,Inras,3,Inras 10mg Tablet
+lisinopril,L.p.l.,3,L.P.L. 2.5mg Tablet
+lisinopril,Lipril,3,Lipril 5 Tablet
+losartan,Losacar,4,Losacar 50 Tablet
+losartan,Lostar,4,Lostar 50mg Tablet
+losartan,Lotan,4,Lotan 50mg Tablet
+losartan,Losaline,3,Losaline 100mg Tablet
+losartan,Losar,3,Losar 50 Tablet
+losartan,Lostan,3,Lostan 50mg Tablet
+losartan,Repace,3,Repace 50 Tablet
+losartan,Actilop,2,Actilop 50mg Tablet
+metformin,Gluformin,6,Gluformin 500 Tablet
+metformin,Glyciphage,6,Glyciphage SR 500mg Tablet
+metformin,Glycomet,6,Glycomet 500 SR Tablet
+metformin,Bigomet,5,Bigomet SR 500 Tablet
+metformin,Confirmin,4,Confirmin 500mg Tablet SR
+metformin,Diafer,4,Diafer 500mg Tablet ER
+metformin,Diamet,4,Diamet 500mg Tablet SR
+metformin,Formet,4,Formet 1gm Tablet SR
+methotrexate,Folitrax,14,Folitrax 15 Tablet
+methotrexate,Mexate,10,Mexate 7.5 Tablet
+methotrexate,Meditrex,6,Meditrex 10mg Tablet
+methotrexate,Mext,6,Mext 7.5 Tablet
+methotrexate,Biotrexate,5,Biotrexate 50mg Injection
+methotrexate,Leetrexate,5,Leetrexate 10mg Tablet
+methotrexate,Methocel,5,Methocel 2.5mg Tablet
+methotrexate,Nidtrex,5,Nidtrex 15mg Tablet
+metoprolol,Metolar,10,Metolar XR 25 Capsule
+metoprolol,Embeta,9,Embeta XR 25 Tablet
+metoprolol,Betamet,6,BetaMet 25mg Tablet XL
+metoprolol,Belol,5,Belol 25mg Tablet XL
+metoprolol,Metocard,5,Metocard XL 25 Tablet
+metoprolol,Metopole,5,Metopole 25 XL Tablet
+metoprolol,Metrate,5,Metrate 25 Tablet
+metoprolol,Cardibeta,4,Cardibeta XR 50 Tablet
+montelukast,Symkast,4,Symkast FX Tablet
+montelukast,Fluencia,3,Fluencia 4mg Tablet
+montelukast,Montair,3,Montair 10 Tablet
+montelukast,Montek,3,Montek 10 Tablet
+montelukast,Montelast,3,Montelast 10mg Tablet
+montelukast,Monteshil,3,Monteshil 10mg Orally Disintegrating Strip
+montelukast,Montest,3,Montest Odt 10mg Tablet
+montelukast,Montina,3,Montina 10 Tablet
+omeprazole,Omez,8,Omez Capsule
+omeprazole,Opel,8,Opel Spas Tablet
+omeprazole,Zegerd,5,Zegerd 40mg Capsule
+omeprazole,Ocid,4,Ocid 20 Capsule
+omeprazole,Ome,4,Ome 20mg Capsule
+omeprazole,Omepraz,4,Omepraz 20mg Capsule
+omeprazole,Opal,4,Opal 20 Capsule
+omeprazole,Zegecid,4,Zegecid 40mg Capsule
+pantoprazole,Pan,7,PAN 40 Tablet
+pantoprazole,Acipan,5,Acipan 40mg Tablet
+pantoprazole,Penta,5,Penta 40 Tablet
+pantoprazole,Pentab,5,Pentab 40 Tablet
+pantoprazole,Astrapan,4,Astrapan 40 Tablet
+pantoprazole,Cantop,4,Cantop 40mg Tablet
+pantoprazole,Europan,4,Europan 40mg Tablet
+pantoprazole,Inpan,4,Inpan 40mg Tablet
+paracetamol,Medomol,11,Medomol 500mg Tablet
+paracetamol,Metacin,11,Metacin Tablet
+paracetamol,Arden,10,Arden 500mg Tablet
+paracetamol,Dolo,9,Dolo 650 Tablet
+paracetamol,Oromol,9,Oromol 500mg Tablet
+paracetamol,Pacimol,9,Pacimol 650 Tablet
+paracetamol,Admol,8,Admol 650mg Tablet
+paracetamol,Biocetamol,8,Biocetamol 500 Tablet
+pregabalin,Pregabid,9,Pregabid 75 Capsule
+pregabalin,Pregalin,8,Pregalin 75 Capsule
+pregabalin,Maxgalin,6,Maxgalin 75 Capsule
+pregabalin,Zylin,5,Zylin 75 Capsule
+pregabalin,Metlin,4,Metlin 50 Tablet
+pregabalin,Neurokem,4,Neurokem 75 Capsule
+pregabalin,Pbren,4,Pbren 50 Capsule
+pregabalin,Pregeb,4,Pregeb 75 Capsule
+propranolol,Prolol,7,Prolol 40mg Capsule TR
+propranolol,Betacap,6,Betacap TR 40 Capsule
+propranolol,Mibeta,6,Mibeta SR 40 Tablet
+propranolol,Nuro,6,Nuro Beta 40mg Tablet
+propranolol,Provanol,6,Provanol SR 40 Tablet
+propranolol,Inderal,5,Inderal 10 Tablet
+propranolol,Kipnol,5,Kipnol TR 40 Capsule
+propranolol,Ponol,5,Ponol 20mg Tablet
+rosuvastatin,Crevast,8,Crevast 10 Tablet
+rosuvastatin,Rosuvas,8,Rosuvas 10 Tablet
+rosuvastatin,Rosycap,8,Rosycap 10 Tablet
+rosuvastatin,Arvast,7,Arvast 10 Tablet
+rosuvastatin,Jubira,7,Jubira 10 Tablet
+rosuvastatin,Rozavel,7,Rozavel 10 Tablet
+rosuvastatin,Acmerose,6,Acmerose 10 Tablet
+rosuvastatin,Lipitas,6,Lipitas 10 Tablet
+sildenafil,Penegra,6,Penegra 100 Tablet
+sildenafil,Vigore,4,Vigore 100 Red Tablet
+sildenafil,Zenegra,4,Zenegra 100 Tablet
+sildenafil,Alsigra,3,Alsigra 50mg Tablet
+sildenafil,Caverta,3,Caverta 50 Tablet
+sildenafil,Erix,3,Erix 100mg Tablet
+sildenafil,Fida,3,Fida 50mg Tablet
+sildenafil,Juan,3,Juan 50mg Tablet
+simvastatin,Simvotin,4,Simvotin 10 Tablet
+simvastatin,Biosim,3,Biosim 20mg Tablet
+simvastatin,Simcard,3,Simcard 10mg Tablet
+simvastatin,Simchol,3,Simchol 20mg Tablet
+simvastatin,Simvas,3,Simvas 20mg Tablet
+simvastatin,Simvastol,3,Simvastol 20mg Tablet
+simvastatin,Simvasyn,3,Simvasyn 20mg Tablet
+simvastatin,Simvatic,3,Simvatic 40 Tablet
+spironolactone,Aldactone,3,Aldactone Tablet
+spironolactone,Cglactone,3,Cglactone 25mg Tablet
+spironolactone,Silectone,3,Silectone 25 Tablet
+spironolactone,Edeflow,2,Edeflow 100 Tablet
+spironolactone,Spirix,2,Spirix 25mg Tablet
+spironolactone,Spironot,2,Spironot 25 Tablet
+spironolactone,Aldace,1,Aldace 25mg Tablet
+spironolactone,Aldotone,1,Aldotone 50mg Tablet
+telmisartan,Telmi,8,Telmi 40 Tablet
+telmisartan,Sartel,6,Sartel 40 Tablet
+telmisartan,Targit,6,Targit 40 Tablet
+telmisartan,Tel,6,Tel 40mg Tablet
+telmisartan,Tetan,6,Tetan 40 Tablet
+telmisartan,Vitel,6,Vitel 40 Tablet
+telmisartan,Telcure,5,Telcure 40mg Tablet
+telmisartan,Telfirst,5,Telfirst 40 Tablet
+tramadol,Tramazac,6,Tramazac Capsule
+tramadol,Contramal,5,Contramal DT 50mg Tablet
+tramadol,Trd,5,Trd Contin OD 100mg Tablet
+tramadol,Cemadol,4,Cemadol 50mg Tablet
+tramadol,Domadol,4,Domadol 50mg Capsule
+tramadol,Medol,4,Medol Gel
+tramadol,Supridol,4,Supridol 50mg Injection
+tramadol,Tramagesic,4,Tramagesic 50mg Tablet
+warfarin,Warf,6,Warf 5 Tablet
+warfarin,Cofarin,4,Cofarin 5mg Tablet
+warfarin,Uniwarfin,3,Uniwarfin 5mg Tablet
+warfarin,Mywarf,2,Mywarf Tablet
+warfarin,Sofarin,1,Sofarin 5mg Tablet
+warfarin,Waf,1,WAF 5 Tablet
